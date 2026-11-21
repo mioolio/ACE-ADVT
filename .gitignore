@@ -23,3 +23,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+
+out/model.json
+out/verification.json
+out/*.trace.txt
