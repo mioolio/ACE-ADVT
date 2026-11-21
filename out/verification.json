@@ -6,7 +6,7 @@
   "md5": "a58a193204c35947eb6cca919e4484f6"
  },
  "rebuilt": {
-  "path": "<PROJECT_ROOT>\\out\\rebuild\\ACE-ADVT.rebuilt.sys",
+  "path": "<WORK_ROOT>\\publish\\ACE-ADVT\\out\\rebuild\\ACE-ADVT.rebuilt.sys",
   "size": 1168048,
   "sha256": "4c144c62acb297ce536f89caa9727ecd6aabc5d048a66a53eb9a937e51523ff8",
   "md5": "a58a193204c35947eb6cca919e4484f6"
