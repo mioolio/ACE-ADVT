@@ -1,0 +1,7802 @@
+[
+ {
+  "site": 382508,
+  "movabs": 382489,
+  "target": 5369092135,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 383127,
+  "movabs": 383108,
+  "target": 5369093346,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 389541,
+  "movabs": 389522,
+  "target": 5369102699,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 393765,
+  "movabs": 393746,
+  "target": 5369107798,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 398792,
+  "movabs": 398773,
+  "target": 5369102889,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 399483,
+  "movabs": 399464,
+  "target": 5369108606,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 399626,
+  "movabs": 399607,
+  "target": 5369108750,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 399663,
+  "movabs": 399644,
+  "target": 5369108787,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 399717,
+  "movabs": 399698,
+  "target": 5369108841,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 399765,
+  "movabs": 399746,
+  "target": 5369108888,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 399853,
+  "movabs": 399834,
+  "target": 5369108977,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 399907,
+  "movabs": 399888,
+  "target": 5369109031,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 399978,
+  "movabs": 399959,
+  "target": 5369109102,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400059,
+  "movabs": 400040,
+  "target": 5369109182,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400113,
+  "movabs": 400094,
+  "target": 5369109236,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400251,
+  "movabs": 400232,
+  "target": 5369109375,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400329,
+  "movabs": 400310,
+  "target": 5369109453,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400407,
+  "movabs": 400388,
+  "target": 5369109530,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400457,
+  "movabs": 400438,
+  "target": 5369109580,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400495,
+  "movabs": 400476,
+  "target": 5369109618,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400531,
+  "movabs": 400512,
+  "target": 5369109655,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400637,
+  "movabs": 400618,
+  "target": 5369109761,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400738,
+  "movabs": 400719,
+  "target": 5369109861,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 400978,
+  "movabs": 400959,
+  "target": 5369110102,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401156,
+  "movabs": 401137,
+  "target": 5369110279,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401285,
+  "movabs": 401266,
+  "target": 5369110409,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401371,
+  "movabs": 401352,
+  "target": 5369110495,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401416,
+  "movabs": 401397,
+  "target": 5369110540,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401467,
+  "movabs": 401448,
+  "target": 5369110590,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401510,
+  "movabs": 401491,
+  "target": 5369110633,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401636,
+  "movabs": 401617,
+  "target": 5369110760,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401672,
+  "movabs": 401653,
+  "target": 5369110796,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401721,
+  "movabs": 401702,
+  "target": 5369110845,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401855,
+  "movabs": 401836,
+  "target": 5369110978,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 401979,
+  "movabs": 401960,
+  "target": 5369111102,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 402065,
+  "movabs": 402046,
+  "target": 5369111189,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 402127,
+  "movabs": 402108,
+  "target": 5369111251,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 402278,
+  "movabs": 402259,
+  "target": 5369111401,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 402311,
+  "movabs": 402292,
+  "target": 5369111434,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 402470,
+  "movabs": 402451,
+  "target": 5369111594,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 402658,
+  "movabs": 402639,
+  "target": 5369111781,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 402698,
+  "movabs": 402679,
+  "target": 5369111968,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 402746,
+  "movabs": 402727,
+  "target": 5369111885,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 402925,
+  "movabs": 402906,
+  "target": 5369112048,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 403006,
+  "movabs": 402987,
+  "target": 5369112129,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 403066,
+  "movabs": 403047,
+  "target": 5369112190,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 403231,
+  "movabs": 403212,
+  "target": 5369112355,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 403285,
+  "movabs": 403266,
+  "target": 5369112408,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 403541,
+  "movabs": 403522,
+  "target": 5369112664,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 403648,
+  "movabs": 403629,
+  "target": 5369112772,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 403930,
+  "movabs": 403911,
+  "target": 5369113053,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404017,
+  "movabs": 403998,
+  "target": 5369113141,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404115,
+  "movabs": 404096,
+  "target": 5369113239,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404311,
+  "movabs": 404292,
+  "target": 5369113434,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404377,
+  "movabs": 404358,
+  "target": 5369113500,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404466,
+  "movabs": 404447,
+  "target": 5369113590,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404551,
+  "movabs": 404532,
+  "target": 5369113675,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404707,
+  "movabs": 404688,
+  "target": 5369113830,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404750,
+  "movabs": 404731,
+  "target": 5369113873,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404791,
+  "movabs": 404772,
+  "target": 5369113914,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404894,
+  "movabs": 404875,
+  "target": 5369114018,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404944,
+  "movabs": 404925,
+  "target": 5369114068,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 404980,
+  "movabs": 404961,
+  "target": 5369114104,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 405040,
+  "movabs": 405021,
+  "target": 5369114163,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 405164,
+  "movabs": 405145,
+  "target": 5369114288,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 405336,
+  "movabs": 405317,
+  "target": 5369114460,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 405392,
+  "movabs": 405373,
+  "target": 5369114515,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 405453,
+  "movabs": 405434,
+  "target": 5369114576,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 405644,
+  "movabs": 405625,
+  "target": 5369114768,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 405867,
+  "movabs": 405848,
+  "target": 5369114990,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 405987,
+  "movabs": 405968,
+  "target": 5369115111,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 406091,
+  "movabs": 406072,
+  "target": 5369115215,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 406266,
+  "movabs": 406247,
+  "target": 5369115389,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 406442,
+  "movabs": 406423,
+  "target": 5369115566,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 406545,
+  "movabs": 406526,
+  "target": 5369115668,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 406592,
+  "movabs": 406573,
+  "target": 5369115715,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 406833,
+  "movabs": 406814,
+  "target": 5369115957,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 406909,
+  "movabs": 406890,
+  "target": 5369116032,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 406993,
+  "movabs": 406974,
+  "target": 5369116117,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407043,
+  "movabs": 407024,
+  "target": 5369116167,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407135,
+  "movabs": 407116,
+  "target": 5369116259,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407218,
+  "movabs": 407199,
+  "target": 5369116341,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407283,
+  "movabs": 407264,
+  "target": 5369116406,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407335,
+  "movabs": 407316,
+  "target": 5369116459,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407421,
+  "movabs": 407402,
+  "target": 5369116545,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407571,
+  "movabs": 407552,
+  "target": 5369116694,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407605,
+  "movabs": 407586,
+  "target": 5369116728,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407674,
+  "movabs": 407655,
+  "target": 5369116798,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407778,
+  "movabs": 407759,
+  "target": 5369116902,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 407975,
+  "movabs": 407956,
+  "target": 5369117099,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408026,
+  "movabs": 408007,
+  "target": 5369117150,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408075,
+  "movabs": 408056,
+  "target": 5369117199,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408193,
+  "movabs": 408174,
+  "target": 5369117316,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408265,
+  "movabs": 408246,
+  "target": 5369117579,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408372,
+  "movabs": 408353,
+  "target": 5369117388,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408673,
+  "movabs": 408654,
+  "target": 5369117797,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408714,
+  "movabs": 408695,
+  "target": 5369117838,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408812,
+  "movabs": 408793,
+  "target": 5369117936,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408851,
+  "movabs": 408832,
+  "target": 5369117974,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408924,
+  "movabs": 408905,
+  "target": 5369118047,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 408990,
+  "movabs": 408971,
+  "target": 5369118113,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 409027,
+  "movabs": 409008,
+  "target": 5369118151,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 409148,
+  "movabs": 409129,
+  "target": 5369118272,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 409369,
+  "movabs": 409350,
+  "target": 5369118493,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 409407,
+  "movabs": 409388,
+  "target": 5369118530,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 409449,
+  "movabs": 409430,
+  "target": 5369118572,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 409583,
+  "movabs": 409564,
+  "target": 5369118707,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 409631,
+  "movabs": 409612,
+  "target": 5369118755,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 409756,
+  "movabs": 409737,
+  "target": 5369118879,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 409884,
+  "movabs": 409865,
+  "target": 5369119008,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 409951,
+  "movabs": 409932,
+  "target": 5369119075,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 410069,
+  "movabs": 410050,
+  "target": 5369119193,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 410137,
+  "movabs": 410118,
+  "target": 5369119260,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 410269,
+  "movabs": 410250,
+  "target": 5369119393,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 410360,
+  "movabs": 410341,
+  "target": 5369119484,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 410437,
+  "movabs": 410418,
+  "target": 5369119561,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 410672,
+  "movabs": 410653,
+  "target": 5369119795,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 410754,
+  "movabs": 410735,
+  "target": 5369119878,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 410794,
+  "movabs": 410775,
+  "target": 5369119918,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 410894,
+  "movabs": 410875,
+  "target": 5369120018,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 411022,
+  "movabs": 411003,
+  "target": 5369120145,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 411299,
+  "movabs": 411280,
+  "target": 5369120423,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 411394,
+  "movabs": 411375,
+  "target": 5369120518,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 411452,
+  "movabs": 411433,
+  "target": 5369120575,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 411668,
+  "movabs": 411649,
+  "target": 5369120792,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 412121,
+  "movabs": 412102,
+  "target": 5369121245,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 412652,
+  "movabs": 412633,
+  "target": 5369121775,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 412737,
+  "movabs": 412718,
+  "target": 5369121861,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 412843,
+  "movabs": 412824,
+  "target": 5369121967,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 413095,
+  "movabs": 413076,
+  "target": 5369122219,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 413146,
+  "movabs": 413127,
+  "target": 5369122270,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 413182,
+  "movabs": 413163,
+  "target": 5369122306,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 413533,
+  "movabs": 413514,
+  "target": 5369122657,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 413854,
+  "movabs": 413835,
+  "target": 5369122977,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 413890,
+  "movabs": 413871,
+  "target": 5369123013,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 413970,
+  "movabs": 413951,
+  "target": 5369123094,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 414222,
+  "movabs": 414203,
+  "target": 5369123345,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 414339,
+  "movabs": 414320,
+  "target": 5369123463,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 414437,
+  "movabs": 414418,
+  "target": 5369123561,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 414490,
+  "movabs": 414471,
+  "target": 5369123614,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 414686,
+  "movabs": 414667,
+  "target": 5369123810,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 414774,
+  "movabs": 414755,
+  "target": 5369123898,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 414877,
+  "movabs": 414858,
+  "target": 5369124000,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 414914,
+  "movabs": 414895,
+  "target": 5369124037,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 414946,
+  "movabs": 414927,
+  "target": 5369124069,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 414982,
+  "movabs": 414963,
+  "target": 5369124106,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 415226,
+  "movabs": 415207,
+  "target": 5369124350,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 415583,
+  "movabs": 415564,
+  "target": 5369124706,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 415976,
+  "movabs": 415957,
+  "target": 5369125099,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 416300,
+  "movabs": 416281,
+  "target": 5369125423,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 416332,
+  "movabs": 416313,
+  "target": 5369125455,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 416399,
+  "movabs": 416380,
+  "target": 5369125523,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 416448,
+  "movabs": 416429,
+  "target": 5369125572,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 416564,
+  "movabs": 416545,
+  "target": 5369125688,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 416640,
+  "movabs": 416621,
+  "target": 5369125763,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 416676,
+  "movabs": 416657,
+  "target": 5369125799,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 416735,
+  "movabs": 416716,
+  "target": 5369125859,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 416939,
+  "movabs": 416920,
+  "target": 5369126062,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 416975,
+  "movabs": 416956,
+  "target": 5369126098,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 417078,
+  "movabs": 417059,
+  "target": 5369126202,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 417115,
+  "movabs": 417096,
+  "target": 5369126239,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 417159,
+  "movabs": 417140,
+  "target": 5369126283,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 417297,
+  "movabs": 417278,
+  "target": 5369126420,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 417448,
+  "movabs": 417429,
+  "target": 5369126572,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 417657,
+  "movabs": 417638,
+  "target": 5369126780,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 417811,
+  "movabs": 417792,
+  "target": 5369126935,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 417934,
+  "movabs": 417915,
+  "target": 5369127058,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418012,
+  "movabs": 417993,
+  "target": 5369127135,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418121,
+  "movabs": 418102,
+  "target": 5369127244,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418168,
+  "movabs": 418149,
+  "target": 5369127292,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418214,
+  "movabs": 418195,
+  "target": 5369127338,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418257,
+  "movabs": 418238,
+  "target": 5369127381,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418328,
+  "movabs": 418309,
+  "target": 5369127451,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418373,
+  "movabs": 418354,
+  "target": 5369127496,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418415,
+  "movabs": 418396,
+  "target": 5369127538,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418547,
+  "movabs": 418528,
+  "target": 5369127671,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418634,
+  "movabs": 418615,
+  "target": 5369127757,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418858,
+  "movabs": 418839,
+  "target": 5369127982,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418916,
+  "movabs": 418897,
+  "target": 5369128039,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 418965,
+  "movabs": 418946,
+  "target": 5369128088,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 419030,
+  "movabs": 419011,
+  "target": 5369128154,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 419083,
+  "movabs": 419064,
+  "target": 5369128207,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 419120,
+  "movabs": 419101,
+  "target": 5369128244,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 419319,
+  "movabs": 419300,
+  "target": 5369128443,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 419512,
+  "movabs": 419493,
+  "target": 5369128636,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 419743,
+  "movabs": 419724,
+  "target": 5369128867,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 419787,
+  "movabs": 419768,
+  "target": 5369128911,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 420041,
+  "movabs": 420022,
+  "target": 5369129164,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 420197,
+  "movabs": 420178,
+  "target": 5369129320,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 420292,
+  "movabs": 420273,
+  "target": 5369129416,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 420718,
+  "movabs": 420699,
+  "target": 5369129841,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 420778,
+  "movabs": 420759,
+  "target": 5369129901,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 420812,
+  "movabs": 420793,
+  "target": 5369129936,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 420972,
+  "movabs": 420953,
+  "target": 5369130096,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 421102,
+  "movabs": 421083,
+  "target": 5369130225,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 421463,
+  "movabs": 421444,
+  "target": 5369130586,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 421540,
+  "movabs": 421521,
+  "target": 5369130663,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 421946,
+  "movabs": 421927,
+  "target": 5369131069,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 422067,
+  "movabs": 422048,
+  "target": 5369131191,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 422106,
+  "movabs": 422087,
+  "target": 5369131230,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 422228,
+  "movabs": 422209,
+  "target": 5369131352,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 422287,
+  "movabs": 422268,
+  "target": 5369131410,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 422349,
+  "movabs": 422330,
+  "target": 5369131472,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 422728,
+  "movabs": 422709,
+  "target": 5369131852,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423006,
+  "movabs": 422987,
+  "target": 5369132129,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423066,
+  "movabs": 423047,
+  "target": 5369132189,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423105,
+  "movabs": 423086,
+  "target": 5369132229,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423154,
+  "movabs": 423135,
+  "target": 5369132278,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423227,
+  "movabs": 423208,
+  "target": 5369132351,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423413,
+  "movabs": 423394,
+  "target": 5369132537,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423512,
+  "movabs": 423493,
+  "target": 5369132636,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423756,
+  "movabs": 423737,
+  "target": 5369132880,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423813,
+  "movabs": 423794,
+  "target": 5369132937,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423869,
+  "movabs": 423850,
+  "target": 5369132993,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 423926,
+  "movabs": 423907,
+  "target": 5369133050,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424005,
+  "movabs": 423986,
+  "target": 5369133128,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424111,
+  "movabs": 424092,
+  "target": 5369133234,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424165,
+  "movabs": 424146,
+  "target": 5369133289,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424245,
+  "movabs": 424226,
+  "target": 5369133369,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424286,
+  "movabs": 424267,
+  "target": 5369133410,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424393,
+  "movabs": 424374,
+  "target": 5369133516,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424495,
+  "movabs": 424476,
+  "target": 5369133619,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424574,
+  "movabs": 424555,
+  "target": 5369133698,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424681,
+  "movabs": 424662,
+  "target": 5369133804,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424732,
+  "movabs": 424713,
+  "target": 5369133855,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424802,
+  "movabs": 424783,
+  "target": 5369133926,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424838,
+  "movabs": 424819,
+  "target": 5369133962,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 424956,
+  "movabs": 424937,
+  "target": 5369134079,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 425022,
+  "movabs": 425003,
+  "target": 5369134145,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 425069,
+  "movabs": 425050,
+  "target": 5369134193,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 425181,
+  "movabs": 425162,
+  "target": 5369134305,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 425278,
+  "movabs": 425259,
+  "target": 5369134401,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 425416,
+  "movabs": 425397,
+  "target": 5369134540,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 425475,
+  "movabs": 425456,
+  "target": 5369134599,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 425517,
+  "movabs": 425498,
+  "target": 5369134641,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 425586,
+  "movabs": 425567,
+  "target": 5369134709,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 425902,
+  "movabs": 425883,
+  "target": 5369135025,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 425993,
+  "movabs": 425974,
+  "target": 5369135116,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 426041,
+  "movabs": 426022,
+  "target": 5369135165,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 426114,
+  "movabs": 426095,
+  "target": 5369135238,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 426162,
+  "movabs": 426143,
+  "target": 5369135286,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 426319,
+  "movabs": 426300,
+  "target": 5369135442,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 426366,
+  "movabs": 426347,
+  "target": 5369135489,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 426404,
+  "movabs": 426385,
+  "target": 5369135528,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 426515,
+  "movabs": 426496,
+  "target": 5369135639,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 426809,
+  "movabs": 426790,
+  "target": 5369135933,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 426984,
+  "movabs": 426965,
+  "target": 5369136108,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 427080,
+  "movabs": 427061,
+  "target": 5369136203,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 427198,
+  "movabs": 427179,
+  "target": 5369136321,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 427264,
+  "movabs": 427245,
+  "target": 5369136388,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 427310,
+  "movabs": 427291,
+  "target": 5369136434,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 427382,
+  "movabs": 427363,
+  "target": 5369136506,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 427512,
+  "movabs": 427493,
+  "target": 5369136635,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 427689,
+  "movabs": 427670,
+  "target": 5369136813,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 427792,
+  "movabs": 427773,
+  "target": 5369136915,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 427891,
+  "movabs": 427872,
+  "target": 5369137015,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 427989,
+  "movabs": 427970,
+  "target": 5369137113,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 428140,
+  "movabs": 428121,
+  "target": 5369137263,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 428192,
+  "movabs": 428173,
+  "target": 5369137315,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 428238,
+  "movabs": 428219,
+  "target": 5369137361,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 428380,
+  "movabs": 428361,
+  "target": 5369137504,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 428468,
+  "movabs": 428449,
+  "target": 5369137592,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 428626,
+  "movabs": 428607,
+  "target": 5369137749,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 428703,
+  "movabs": 428684,
+  "target": 5369137826,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 428851,
+  "movabs": 428832,
+  "target": 5369137975,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 428966,
+  "movabs": 428947,
+  "target": 5369138089,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 428999,
+  "movabs": 428980,
+  "target": 5369138122,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 429033,
+  "movabs": 429014,
+  "target": 5369138156,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 429231,
+  "movabs": 429212,
+  "target": 5369138355,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 429322,
+  "movabs": 429303,
+  "target": 5369138445,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 429361,
+  "movabs": 429342,
+  "target": 5369138484,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 429397,
+  "movabs": 429378,
+  "target": 5369138520,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 429636,
+  "movabs": 429617,
+  "target": 5369138759,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 429674,
+  "movabs": 429655,
+  "target": 5369138797,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 429717,
+  "movabs": 429698,
+  "target": 5369138840,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 429905,
+  "movabs": 429886,
+  "target": 5369139029,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 429946,
+  "movabs": 429927,
+  "target": 5369139070,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 430088,
+  "movabs": 430069,
+  "target": 5369139212,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 430327,
+  "movabs": 430308,
+  "target": 5369139451,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 430558,
+  "movabs": 430539,
+  "target": 5369139682,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 430615,
+  "movabs": 430596,
+  "target": 5369139739,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 430785,
+  "movabs": 430766,
+  "target": 5369139908,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 431016,
+  "movabs": 430997,
+  "target": 5369140140,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 431149,
+  "movabs": 431130,
+  "target": 5369140273,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 431263,
+  "movabs": 431244,
+  "target": 5369140386,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 431311,
+  "movabs": 431292,
+  "target": 5369140434,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 431584,
+  "movabs": 431565,
+  "target": 5369140708,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 431828,
+  "movabs": 431809,
+  "target": 5369140951,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 431976,
+  "movabs": 431957,
+  "target": 5369141099,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432077,
+  "movabs": 432058,
+  "target": 5369141200,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432171,
+  "movabs": 432152,
+  "target": 5369141295,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432311,
+  "movabs": 432292,
+  "target": 5369141434,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432352,
+  "movabs": 432333,
+  "target": 5369141475,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432469,
+  "movabs": 432450,
+  "target": 5369141593,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432518,
+  "movabs": 432499,
+  "target": 5369141642,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432566,
+  "movabs": 432547,
+  "target": 5369141690,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432617,
+  "movabs": 432598,
+  "target": 5369141741,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432659,
+  "movabs": 432640,
+  "target": 5369141782,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432788,
+  "movabs": 432769,
+  "target": 5369141911,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432843,
+  "movabs": 432824,
+  "target": 5369141966,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 432913,
+  "movabs": 432894,
+  "target": 5369142037,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 433045,
+  "movabs": 433026,
+  "target": 5369142168,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 433109,
+  "movabs": 433090,
+  "target": 5369142232,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 433142,
+  "movabs": 433123,
+  "target": 5369142265,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 433415,
+  "movabs": 433396,
+  "target": 5369142539,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 433796,
+  "movabs": 433777,
+  "target": 5369142919,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 433840,
+  "movabs": 433821,
+  "target": 5369142964,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 433880,
+  "movabs": 433861,
+  "target": 5369143004,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 433969,
+  "movabs": 433950,
+  "target": 5369143093,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 434025,
+  "movabs": 434006,
+  "target": 5369143149,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 434173,
+  "movabs": 434154,
+  "target": 5369143296,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 434206,
+  "movabs": 434187,
+  "target": 5369143330,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 434292,
+  "movabs": 434273,
+  "target": 5369143416,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 434328,
+  "movabs": 434309,
+  "target": 5369143452,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 434371,
+  "movabs": 434352,
+  "target": 5369143494,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 434481,
+  "movabs": 434462,
+  "target": 5369143604,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 434588,
+  "movabs": 434569,
+  "target": 5369143712,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 434689,
+  "movabs": 434670,
+  "target": 5369143813,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 434821,
+  "movabs": 434802,
+  "target": 5369143944,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435002,
+  "movabs": 434983,
+  "target": 5369144126,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435080,
+  "movabs": 435061,
+  "target": 5369144204,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435151,
+  "movabs": 435132,
+  "target": 5369144274,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435230,
+  "movabs": 435211,
+  "target": 5369144353,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435283,
+  "movabs": 435264,
+  "target": 5369144406,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435373,
+  "movabs": 435354,
+  "target": 5369144497,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435506,
+  "movabs": 435487,
+  "target": 5369144629,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435595,
+  "movabs": 435576,
+  "target": 5369144718,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435691,
+  "movabs": 435672,
+  "target": 5369144815,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435891,
+  "movabs": 435872,
+  "target": 5369145014,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 435927,
+  "movabs": 435908,
+  "target": 5369145050,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 436039,
+  "movabs": 436020,
+  "target": 5369145163,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 436088,
+  "movabs": 436069,
+  "target": 5369145212,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 436224,
+  "movabs": 436205,
+  "target": 5369145347,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 436312,
+  "movabs": 436293,
+  "target": 5369145435,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 436393,
+  "movabs": 436374,
+  "target": 5369145516,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 436570,
+  "movabs": 436551,
+  "target": 5369145694,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 436655,
+  "movabs": 436636,
+  "target": 5369145778,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 436712,
+  "movabs": 436693,
+  "target": 5369145835,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 436754,
+  "movabs": 436735,
+  "target": 5369145877,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 436985,
+  "movabs": 436966,
+  "target": 5369146108,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 437185,
+  "movabs": 437166,
+  "target": 5369146308,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 437357,
+  "movabs": 437338,
+  "target": 5369149001,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 444307,
+  "movabs": 444288,
+  "target": 5369153430,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 444436,
+  "movabs": 444417,
+  "target": 5369153560,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 444526,
+  "movabs": 444507,
+  "target": 5369153650,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 444606,
+  "movabs": 444587,
+  "target": 5369153729,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 444649,
+  "movabs": 444630,
+  "target": 5369153772,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 444702,
+  "movabs": 444683,
+  "target": 5369153979,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 444775,
+  "movabs": 444756,
+  "target": 5369153860,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 444993,
+  "movabs": 444974,
+  "target": 5369154116,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445037,
+  "movabs": 445018,
+  "target": 5369154160,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445125,
+  "movabs": 445106,
+  "target": 5369154249,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445165,
+  "movabs": 445146,
+  "target": 5369154289,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445238,
+  "movabs": 445219,
+  "target": 5369154362,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445278,
+  "movabs": 445259,
+  "target": 5369154402,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445327,
+  "movabs": 445308,
+  "target": 5369154451,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445370,
+  "movabs": 445351,
+  "target": 5369154494,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445481,
+  "movabs": 445462,
+  "target": 5369154604,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445519,
+  "movabs": 445500,
+  "target": 5369154642,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445579,
+  "movabs": 445560,
+  "target": 5369154703,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445741,
+  "movabs": 445722,
+  "target": 5369154865,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 445987,
+  "movabs": 445968,
+  "target": 5369155111,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446196,
+  "movabs": 446177,
+  "target": 5369155320,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446247,
+  "movabs": 446228,
+  "target": 5369155371,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446305,
+  "movabs": 446286,
+  "target": 5369155429,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446388,
+  "movabs": 446369,
+  "target": 5369155511,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446470,
+  "movabs": 446451,
+  "target": 5369155594,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446573,
+  "movabs": 446554,
+  "target": 5369155697,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446612,
+  "movabs": 446593,
+  "target": 5369155736,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446736,
+  "movabs": 446717,
+  "target": 5369155859,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446775,
+  "movabs": 446756,
+  "target": 5369155899,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446816,
+  "movabs": 446797,
+  "target": 5369155940,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446877,
+  "movabs": 446858,
+  "target": 5369156001,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 446922,
+  "movabs": 446903,
+  "target": 5369156046,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 447111,
+  "movabs": 447092,
+  "target": 5369156235,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 447188,
+  "movabs": 447169,
+  "target": 5369156312,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 447413,
+  "movabs": 447394,
+  "target": 5369156536,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 447445,
+  "movabs": 447426,
+  "target": 5369156569,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 447501,
+  "movabs": 447482,
+  "target": 5369156625,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 447635,
+  "movabs": 447616,
+  "target": 5369156758,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 450448,
+  "movabs": 450429,
+  "target": 5369164715,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 455592,
+  "movabs": 455573,
+  "target": 5369159407,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 460784,
+  "movabs": 460765,
+  "target": 5369169907,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 460891,
+  "movabs": 460872,
+  "target": 5369166892,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 461994,
+  "movabs": 461975,
+  "target": 5369169786,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 463557,
+  "movabs": 463538,
+  "target": 5369172680,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 463597,
+  "movabs": 463578,
+  "target": 5369172721,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 463819,
+  "movabs": 463800,
+  "target": 5369172942,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 463932,
+  "movabs": 463913,
+  "target": 5369173056,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 464168,
+  "movabs": 464149,
+  "target": 5369173291,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 464227,
+  "movabs": 464208,
+  "target": 5369173350,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 464308,
+  "movabs": 464289,
+  "target": 5369173432,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 464350,
+  "movabs": 464331,
+  "target": 5369173474,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 465057,
+  "movabs": 465038,
+  "target": 5369175224,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 466210,
+  "movabs": 466191,
+  "target": 5369175841,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 466968,
+  "movabs": 466949,
+  "target": 5369176092,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467017,
+  "movabs": 466998,
+  "target": 5369176141,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467059,
+  "movabs": 467040,
+  "target": 5369176183,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467130,
+  "movabs": 467111,
+  "target": 5369176253,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467245,
+  "movabs": 467226,
+  "target": 5369176369,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467295,
+  "movabs": 467276,
+  "target": 5369176419,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467396,
+  "movabs": 467377,
+  "target": 5369176519,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467444,
+  "movabs": 467425,
+  "target": 5369176567,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467483,
+  "movabs": 467464,
+  "target": 5369176606,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467545,
+  "movabs": 467526,
+  "target": 5369176669,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467590,
+  "movabs": 467571,
+  "target": 5369176714,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467632,
+  "movabs": 467613,
+  "target": 5369176756,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467690,
+  "movabs": 467671,
+  "target": 5369176814,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467852,
+  "movabs": 467833,
+  "target": 5369176976,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467888,
+  "movabs": 467869,
+  "target": 5369177012,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 467926,
+  "movabs": 467907,
+  "target": 5369177050,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 468102,
+  "movabs": 468083,
+  "target": 5369177226,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 468141,
+  "movabs": 468122,
+  "target": 5369177265,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 468213,
+  "movabs": 468194,
+  "target": 5369177337,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 468282,
+  "movabs": 468263,
+  "target": 5369177405,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 468523,
+  "movabs": 468504,
+  "target": 5369177647,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 468855,
+  "movabs": 468836,
+  "target": 5369177978,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 468959,
+  "movabs": 468940,
+  "target": 5369179348,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 470224,
+  "movabs": 470205,
+  "target": 5369179152,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 470321,
+  "movabs": 470302,
+  "target": 5369179243,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 470875,
+  "movabs": 470856,
+  "target": 5369179998,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 470908,
+  "movabs": 470889,
+  "target": 5369180031,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 470980,
+  "movabs": 470961,
+  "target": 5369180104,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471044,
+  "movabs": 471025,
+  "target": 5369180168,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471103,
+  "movabs": 471084,
+  "target": 5369180227,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471157,
+  "movabs": 471138,
+  "target": 5369180281,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471207,
+  "movabs": 471188,
+  "target": 5369180330,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471295,
+  "movabs": 471276,
+  "target": 5369180418,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471338,
+  "movabs": 471319,
+  "target": 5369180462,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471417,
+  "movabs": 471398,
+  "target": 5369180540,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471546,
+  "movabs": 471527,
+  "target": 5369180670,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471632,
+  "movabs": 471613,
+  "target": 5369180755,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471766,
+  "movabs": 471747,
+  "target": 5369180889,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471872,
+  "movabs": 471853,
+  "target": 5369180996,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471913,
+  "movabs": 471894,
+  "target": 5369181037,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 471952,
+  "movabs": 471933,
+  "target": 5369181076,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472001,
+  "movabs": 471982,
+  "target": 5369181124,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472083,
+  "movabs": 472064,
+  "target": 5369181206,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472178,
+  "movabs": 472159,
+  "target": 5369181302,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472267,
+  "movabs": 472248,
+  "target": 5369181391,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472323,
+  "movabs": 472304,
+  "target": 5369181446,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472374,
+  "movabs": 472355,
+  "target": 5369181497,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472434,
+  "movabs": 472415,
+  "target": 5369181558,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472516,
+  "movabs": 472497,
+  "target": 5369181640,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472552,
+  "movabs": 472533,
+  "target": 5369181675,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472607,
+  "movabs": 472588,
+  "target": 5369181730,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472660,
+  "movabs": 472641,
+  "target": 5369181783,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472715,
+  "movabs": 472696,
+  "target": 5369181839,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472769,
+  "movabs": 472750,
+  "target": 5369181893,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472894,
+  "movabs": 472875,
+  "target": 5369182017,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 472937,
+  "movabs": 472918,
+  "target": 5369182060,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 473081,
+  "movabs": 473062,
+  "target": 5369182204,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 473231,
+  "movabs": 473212,
+  "target": 5369182355,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 473386,
+  "movabs": 473367,
+  "target": 5369182510,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 473427,
+  "movabs": 473408,
+  "target": 5369182550,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 473473,
+  "movabs": 473454,
+  "target": 5369182597,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 473517,
+  "movabs": 473498,
+  "target": 5369182641,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 473601,
+  "movabs": 473582,
+  "target": 5369182725,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 473662,
+  "movabs": 473643,
+  "target": 5369182786,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 473716,
+  "movabs": 473697,
+  "target": 5369182839,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 473893,
+  "movabs": 473874,
+  "target": 5369183017,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474011,
+  "movabs": 473992,
+  "target": 5369183134,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474104,
+  "movabs": 474085,
+  "target": 5369183228,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474244,
+  "movabs": 474225,
+  "target": 5369183368,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474294,
+  "movabs": 474275,
+  "target": 5369183417,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474519,
+  "movabs": 474500,
+  "target": 5369183643,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474596,
+  "movabs": 474577,
+  "target": 5369183720,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474711,
+  "movabs": 474692,
+  "target": 5369183834,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474750,
+  "movabs": 474731,
+  "target": 5369183874,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474837,
+  "movabs": 474818,
+  "target": 5369184310,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474899,
+  "movabs": 474880,
+  "target": 5369184341,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 474971,
+  "movabs": 474952,
+  "target": 5369184033,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 475000,
+  "movabs": 474981,
+  "target": 5369184283,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 475035,
+  "movabs": 475016,
+  "target": 5369184185,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 475264,
+  "movabs": 475245,
+  "target": 5369183982,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 475354,
+  "movabs": 475335,
+  "target": 5369184477,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 475403,
+  "movabs": 475384,
+  "target": 5369184527,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 475466,
+  "movabs": 475447,
+  "target": 5369184590,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 475532,
+  "movabs": 475513,
+  "target": 5369184656,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 475833,
+  "movabs": 475814,
+  "target": 5369184957,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 475917,
+  "movabs": 475898,
+  "target": 5369185041,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 475993,
+  "movabs": 475974,
+  "target": 5369185116,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476029,
+  "movabs": 476010,
+  "target": 5369185152,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476065,
+  "movabs": 476046,
+  "target": 5369185189,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476194,
+  "movabs": 476175,
+  "target": 5369185318,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476231,
+  "movabs": 476212,
+  "target": 5369185354,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476271,
+  "movabs": 476252,
+  "target": 5369185394,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476308,
+  "movabs": 476289,
+  "target": 5369185431,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476379,
+  "movabs": 476360,
+  "target": 5369185503,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476430,
+  "movabs": 476411,
+  "target": 5369185554,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476473,
+  "movabs": 476454,
+  "target": 5369185597,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476514,
+  "movabs": 476495,
+  "target": 5369185638,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 476636,
+  "movabs": 476617,
+  "target": 5369185759,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 477985,
+  "movabs": 477966,
+  "target": 5369185864,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478023,
+  "movabs": 478004,
+  "target": 5369187147,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478111,
+  "movabs": 478092,
+  "target": 5369187235,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478173,
+  "movabs": 478154,
+  "target": 5369187297,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478322,
+  "movabs": 478303,
+  "target": 5369187445,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478359,
+  "movabs": 478340,
+  "target": 5369187482,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478414,
+  "movabs": 478395,
+  "target": 5369187538,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478572,
+  "movabs": 478553,
+  "target": 5369187695,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478723,
+  "movabs": 478704,
+  "target": 5369187846,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478786,
+  "movabs": 478767,
+  "target": 5369187910,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478825,
+  "movabs": 478806,
+  "target": 5369187949,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478867,
+  "movabs": 478848,
+  "target": 5369187991,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 478999,
+  "movabs": 478980,
+  "target": 5369188123,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 479076,
+  "movabs": 479057,
+  "target": 5369188199,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 479119,
+  "movabs": 479100,
+  "target": 5369188243,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 479330,
+  "movabs": 479311,
+  "target": 5369188454,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 479463,
+  "movabs": 479444,
+  "target": 5369188586,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 479646,
+  "movabs": 479627,
+  "target": 5369188770,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 479685,
+  "movabs": 479666,
+  "target": 5369188809,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 479736,
+  "movabs": 479717,
+  "target": 5369188859,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 479910,
+  "movabs": 479891,
+  "target": 5369189034,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 479979,
+  "movabs": 479960,
+  "target": 5369189103,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 480017,
+  "movabs": 479998,
+  "target": 5369189141,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 480203,
+  "movabs": 480184,
+  "target": 5369189326,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 480250,
+  "movabs": 480231,
+  "target": 5369189374,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 480326,
+  "movabs": 480307,
+  "target": 5369189450,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 480570,
+  "movabs": 480551,
+  "target": 5369189693,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 480900,
+  "movabs": 480881,
+  "target": 5369190023,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 481047,
+  "movabs": 481028,
+  "target": 5369190171,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 481085,
+  "movabs": 481066,
+  "target": 5369190209,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 481197,
+  "movabs": 481178,
+  "target": 5369190320,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 481326,
+  "movabs": 481307,
+  "target": 5369190450,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 481595,
+  "movabs": 481576,
+  "target": 5369190719,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 481646,
+  "movabs": 481627,
+  "target": 5369190770,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 481922,
+  "movabs": 481903,
+  "target": 5369191046,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 481997,
+  "movabs": 481978,
+  "target": 5369191121,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 483759,
+  "movabs": 483740,
+  "target": 5369192170,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 483871,
+  "movabs": 483852,
+  "target": 5369192780,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 489685,
+  "movabs": 489666,
+  "target": 5369460316,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 490092,
+  "movabs": 490073,
+  "target": 5369314510,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 492259,
+  "movabs": 492240,
+  "target": 5369574666,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 493509,
+  "movabs": 493490,
+  "target": 5369523434,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 494843,
+  "movabs": 494824,
+  "target": 5369312735,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 496977,
+  "movabs": 496958,
+  "target": 5369563229,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 498910,
+  "movabs": 498891,
+  "target": 5369592228,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 499321,
+  "movabs": 499302,
+  "target": 5369508556,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 499635,
+  "movabs": 499616,
+  "target": 5369810058,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 500180,
+  "movabs": 500161,
+  "target": 5369422322,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 500612,
+  "movabs": 500593,
+  "target": 5369421752,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 503013,
+  "movabs": 502994,
+  "target": 5369759133,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 504397,
+  "movabs": 504378,
+  "target": 5369685448,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 504872,
+  "movabs": 504853,
+  "target": 5369671673,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 505971,
+  "movabs": 505952,
+  "target": 5369330027,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 506359,
+  "movabs": 506340,
+  "target": 5369318573,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 506749,
+  "movabs": 506730,
+  "target": 5369728931,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 509137,
+  "movabs": 509118,
+  "target": 5369548775,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 509633,
+  "movabs": 509614,
+  "target": 5369631419,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 510956,
+  "movabs": 510937,
+  "target": 5369741668,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 511996,
+  "movabs": 511977,
+  "target": 5369434498,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 513702,
+  "movabs": 513683,
+  "target": 5369588064,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 514146,
+  "movabs": 514127,
+  "target": 5369355840,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 515052,
+  "movabs": 515033,
+  "target": 5369316397,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 517000,
+  "movabs": 516981,
+  "target": 5369690574,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 517440,
+  "movabs": 517421,
+  "target": 5369566502,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 518790,
+  "movabs": 518771,
+  "target": 5369661153,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 520710,
+  "movabs": 520691,
+  "target": 5369259506,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 521197,
+  "movabs": 521178,
+  "target": 5369309535,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 525147,
+  "movabs": 525128,
+  "target": 5369646360,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 527469,
+  "movabs": 527450,
+  "target": 5369666589,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 528647,
+  "movabs": 528628,
+  "target": 5369308668,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 530469,
+  "movabs": 530450,
+  "target": 5369765547,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 530976,
+  "movabs": 530957,
+  "target": 5369460621,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 533563,
+  "movabs": 533544,
+  "target": 5369363116,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 533917,
+  "movabs": 533898,
+  "target": 5369766762,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 535687,
+  "movabs": 535668,
+  "target": 5369274702,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 536812,
+  "movabs": 536793,
+  "target": 5369341536,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 538279,
+  "movabs": 538260,
+  "target": 5369403512,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 541240,
+  "movabs": 541221,
+  "target": 5369341806,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 542024,
+  "movabs": 542005,
+  "target": 5369595251,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 542948,
+  "movabs": 542929,
+  "target": 5369698342,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 543299,
+  "movabs": 543280,
+  "target": 5369709136,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 543752,
+  "movabs": 543733,
+  "target": 5369351312,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 544291,
+  "movabs": 544272,
+  "target": 5369441982,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 547674,
+  "movabs": 547655,
+  "target": 5369366377,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 548312,
+  "movabs": 548293,
+  "target": 5369518531,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 551150,
+  "movabs": 551131,
+  "target": 5369768525,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 551878,
+  "movabs": 551859,
+  "target": 5369402166,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 554287,
+  "movabs": 554268,
+  "target": 5369815599,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 554679,
+  "movabs": 554660,
+  "target": 5369589769,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 559972,
+  "movabs": 559953,
+  "target": 5369546994,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 561859,
+  "movabs": 561840,
+  "target": 5369254737,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 564159,
+  "movabs": 564140,
+  "target": 5369300581,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 564512,
+  "movabs": 564493,
+  "target": 5369264814,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 568368,
+  "movabs": 568349,
+  "target": 5369309223,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 572500,
+  "movabs": 572481,
+  "target": 5369721173,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 573043,
+  "movabs": 573024,
+  "target": 5369288323,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 574877,
+  "movabs": 574858,
+  "target": 5369467583,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 575324,
+  "movabs": 575305,
+  "target": 5369622454,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 576883,
+  "movabs": 576864,
+  "target": 5369730671,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 577975,
+  "movabs": 577956,
+  "target": 5369557832,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 581050,
+  "movabs": 581031,
+  "target": 5369457785,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 582785,
+  "movabs": 582766,
+  "target": 5369767595,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 584321,
+  "movabs": 584302,
+  "target": 5369724647,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 586326,
+  "movabs": 586307,
+  "target": 5369666234,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 587965,
+  "movabs": 587946,
+  "target": 5369635396,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 588436,
+  "movabs": 588417,
+  "target": 5369694339,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 588848,
+  "movabs": 588829,
+  "target": 5369703057,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 591108,
+  "movabs": 591089,
+  "target": 5369325086,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 591458,
+  "movabs": 591439,
+  "target": 5369639384,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 592540,
+  "movabs": 592521,
+  "target": 5369305088,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 593996,
+  "movabs": 593977,
+  "target": 5369679248,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 597996,
+  "movabs": 597977,
+  "target": 5369711381,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 604326,
+  "movabs": 604307,
+  "target": 5369501746,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 605386,
+  "movabs": 605367,
+  "target": 5369665497,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 605856,
+  "movabs": 605837,
+  "target": 5369775748,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 607778,
+  "movabs": 607759,
+  "target": 5369660671,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 608329,
+  "movabs": 608310,
+  "target": 5369419783,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 609203,
+  "movabs": 609184,
+  "target": 5369791816,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 610334,
+  "movabs": 610315,
+  "target": 5369485379,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 611818,
+  "movabs": 611799,
+  "target": 5369650748,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 614091,
+  "movabs": 614072,
+  "target": 5369657896,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 615459,
+  "movabs": 615440,
+  "target": 5369332530,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 616401,
+  "movabs": 616382,
+  "target": 5369398734,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 619126,
+  "movabs": 619107,
+  "target": 5369626124,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 620255,
+  "movabs": 620236,
+  "target": 5369197090,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 620660,
+  "movabs": 620641,
+  "target": 5369333883,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 621673,
+  "movabs": 621654,
+  "target": 5369278021,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 622167,
+  "movabs": 622148,
+  "target": 5369785189,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 623407,
+  "movabs": 623388,
+  "target": 5369317483,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 625309,
+  "movabs": 625290,
+  "target": 5369361917,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 626102,
+  "movabs": 626083,
+  "target": 5369319457,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 627898,
+  "movabs": 627879,
+  "target": 5369541832,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 628682,
+  "movabs": 628663,
+  "target": 5369749232,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 629161,
+  "movabs": 629142,
+  "target": 5369819712,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 630727,
+  "movabs": 630708,
+  "target": 5369469019,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 632413,
+  "movabs": 632394,
+  "target": 5369751153,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 634256,
+  "movabs": 634237,
+  "target": 5369630464,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 634740,
+  "movabs": 634721,
+  "target": 5369614023,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 636610,
+  "movabs": 636591,
+  "target": 5369203966,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 637264,
+  "movabs": 637245,
+  "target": 5369788939,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 638290,
+  "movabs": 638271,
+  "target": 5369309899,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 639955,
+  "movabs": 639936,
+  "target": 5369338541,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 640435,
+  "movabs": 640416,
+  "target": 5369325825,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 641884,
+  "movabs": 641865,
+  "target": 5369316088,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 646301,
+  "movabs": 646282,
+  "target": 5369615547,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 647468,
+  "movabs": 647449,
+  "target": 5369338285,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 648935,
+  "movabs": 648916,
+  "target": 5369420878,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 649466,
+  "movabs": 649447,
+  "target": 5369584493,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 655542,
+  "movabs": 655523,
+  "target": 5369195601,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 657577,
+  "movabs": 657558,
+  "target": 5369477942,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 658214,
+  "movabs": 658195,
+  "target": 5369301973,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 659193,
+  "movabs": 659174,
+  "target": 5369733798,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 659589,
+  "movabs": 659570,
+  "target": 5369816551,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 660133,
+  "movabs": 660114,
+  "target": 5369728000,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 662123,
+  "movabs": 662104,
+  "target": 5369623213,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 663607,
+  "movabs": 663588,
+  "target": 5369362142,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 664113,
+  "movabs": 664094,
+  "target": 5369441663,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 665174,
+  "movabs": 665155,
+  "target": 5369592456,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 665649,
+  "movabs": 665630,
+  "target": 5369369257,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 668353,
+  "movabs": 668334,
+  "target": 5369293788,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 670037,
+  "movabs": 670018,
+  "target": 5369683914,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 673964,
+  "movabs": 673945,
+  "target": 5369753864,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 677665,
+  "movabs": 677646,
+  "target": 5369240099,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 678086,
+  "movabs": 678067,
+  "target": 5369750416,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 678562,
+  "movabs": 678543,
+  "target": 5369308984,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 684041,
+  "movabs": 684022,
+  "target": 5369762489,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 684443,
+  "movabs": 684424,
+  "target": 5369224176,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 688343,
+  "movabs": 688324,
+  "target": 5369553743,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 693042,
+  "movabs": 693023,
+  "target": 5369788305,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 695767,
+  "movabs": 695748,
+  "target": 5369329378,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 696174,
+  "movabs": 696155,
+  "target": 5369822909,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 696797,
+  "movabs": 696778,
+  "target": 5369387686,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 697464,
+  "movabs": 697445,
+  "target": 5369510478,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 698085,
+  "movabs": 698066,
+  "target": 5369732927,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 698858,
+  "movabs": 698839,
+  "target": 5369267423,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 700155,
+  "movabs": 700136,
+  "target": 5369716697,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 700468,
+  "movabs": 700449,
+  "target": 5369386124,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 700893,
+  "movabs": 700874,
+  "target": 5369419179,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 701651,
+  "movabs": 701632,
+  "target": 5369792341,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 703750,
+  "movabs": 703731,
+  "target": 5369491099,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 705681,
+  "movabs": 705662,
+  "target": 5369738374,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 706867,
+  "movabs": 706848,
+  "target": 5369523064,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 707997,
+  "movabs": 707978,
+  "target": 5369652738,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 710659,
+  "movabs": 710640,
+  "target": 5369384088,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 711754,
+  "movabs": 711735,
+  "target": 5369651180,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 712628,
+  "movabs": 712609,
+  "target": 5369628591,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 713199,
+  "movabs": 713180,
+  "target": 5369393164,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 717701,
+  "movabs": 717682,
+  "target": 5369593758,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 720517,
+  "movabs": 720498,
+  "target": 5369576453,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 721075,
+  "movabs": 721056,
+  "target": 5369713212,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 721810,
+  "movabs": 721791,
+  "target": 5369421320,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 722268,
+  "movabs": 722249,
+  "target": 5369201383,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 723434,
+  "movabs": 723415,
+  "target": 5369484722,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 723975,
+  "movabs": 723956,
+  "target": 5369536880,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 724680,
+  "movabs": 724661,
+  "target": 5369405921,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 725374,
+  "movabs": 725355,
+  "target": 5369800680,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 727862,
+  "movabs": 727843,
+  "target": 5369526145,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 728359,
+  "movabs": 728340,
+  "target": 5369194186,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 729910,
+  "movabs": 729891,
+  "target": 5369205179,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 730207,
+  "movabs": 730188,
+  "target": 5369406225,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 730677,
+  "movabs": 730658,
+  "target": 5369576402,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 731246,
+  "movabs": 731227,
+  "target": 5369408586,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 733445,
+  "movabs": 733426,
+  "target": 5369218260,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 735844,
+  "movabs": 735825,
+  "target": 5369661541,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 736440,
+  "movabs": 736421,
+  "target": 5369621152,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 737209,
+  "movabs": 737190,
+  "target": 5369418733,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 738845,
+  "movabs": 738826,
+  "target": 5369747839,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 742317,
+  "movabs": 742298,
+  "target": 5369530857,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 743224,
+  "movabs": 743205,
+  "target": 5369508903,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 745860,
+  "movabs": 745841,
+  "target": 5369534382,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 746965,
+  "movabs": 746946,
+  "target": 5369756910,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 747379,
+  "movabs": 747360,
+  "target": 5369623425,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 747954,
+  "movabs": 747935,
+  "target": 5369683653,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 748662,
+  "movabs": 748643,
+  "target": 5369255283,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 749382,
+  "movabs": 749363,
+  "target": 5369433401,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 753257,
+  "movabs": 753238,
+  "target": 5369459486,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 753984,
+  "movabs": 753965,
+  "target": 5369616968,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 755175,
+  "movabs": 755156,
+  "target": 5369349559,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 756002,
+  "movabs": 755983,
+  "target": 5369653092,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 756756,
+  "movabs": 756737,
+  "target": 5369709590,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 759457,
+  "movabs": 759438,
+  "target": 5369657520,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 759895,
+  "movabs": 759876,
+  "target": 5369686559,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 760334,
+  "movabs": 760315,
+  "target": 5369515001,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 760954,
+  "movabs": 760935,
+  "target": 5369581143,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 761891,
+  "movabs": 761872,
+  "target": 5369553486,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 765590,
+  "movabs": 765571,
+  "target": 5369616285,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 766369,
+  "movabs": 766350,
+  "target": 5369504576,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 768110,
+  "movabs": 768091,
+  "target": 5369545132,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 768459,
+  "movabs": 768440,
+  "target": 5369412169,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 769344,
+  "movabs": 769325,
+  "target": 5369200579,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 770202,
+  "movabs": 770183,
+  "target": 5369755158,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 771718,
+  "movabs": 771699,
+  "target": 5369194654,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 773053,
+  "movabs": 773034,
+  "target": 5369276756,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 774378,
+  "movabs": 774359,
+  "target": 5369504059,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 775016,
+  "movabs": 774997,
+  "target": 5369371246,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 775598,
+  "movabs": 775579,
+  "target": 5369766393,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 777473,
+  "movabs": 777454,
+  "target": 5369799663,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 778792,
+  "movabs": 778773,
+  "target": 5369559749,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 781457,
+  "movabs": 781438,
+  "target": 5369802271,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 781975,
+  "movabs": 781956,
+  "target": 5369721528,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 785023,
+  "movabs": 785004,
+  "target": 5369752545,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 789532,
+  "movabs": 789513,
+  "target": 5369326979,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 790662,
+  "movabs": 790643,
+  "target": 5369805647,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 793666,
+  "movabs": 793647,
+  "target": 5369582855,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 794421,
+  "movabs": 794402,
+  "target": 5369492813,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 796115,
+  "movabs": 796096,
+  "target": 5369254980,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 797542,
+  "movabs": 797523,
+  "target": 5369247772,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 797792,
+  "movabs": 797773,
+  "target": 5369768481,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 800604,
+  "movabs": 800585,
+  "target": 5369757148,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 801810,
+  "movabs": 801791,
+  "target": 5369296821,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 802591,
+  "movabs": 802572,
+  "target": 5369760548,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 803323,
+  "movabs": 803304,
+  "target": 5369486781,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 804608,
+  "movabs": 804589,
+  "target": 5369603061,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 805877,
+  "movabs": 805858,
+  "target": 5369369645,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 807948,
+  "movabs": 807929,
+  "target": 5369474356,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 812761,
+  "movabs": 812742,
+  "target": 5369299394,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 813940,
+  "movabs": 813921,
+  "target": 5369382397,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 814311,
+  "movabs": 814292,
+  "target": 5369573135,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 815042,
+  "movabs": 815023,
+  "target": 5369670101,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 815936,
+  "movabs": 815917,
+  "target": 5369435225,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 816851,
+  "movabs": 816832,
+  "target": 5369702360,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 818511,
+  "movabs": 818492,
+  "target": 5369595636,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 821379,
+  "movabs": 821360,
+  "target": 5369794442,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 826066,
+  "movabs": 826047,
+  "target": 5369510934,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 827028,
+  "movabs": 827009,
+  "target": 5369519790,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 829566,
+  "movabs": 829547,
+  "target": 5369739965,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 830083,
+  "movabs": 830064,
+  "target": 5369608180,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 830510,
+  "movabs": 830491,
+  "target": 5369403783,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 832708,
+  "movabs": 832689,
+  "target": 5369437925,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 837871,
+  "movabs": 837852,
+  "target": 5369685233,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 838890,
+  "movabs": 838871,
+  "target": 5369588631,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 840625,
+  "movabs": 840606,
+  "target": 5369710642,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 841182,
+  "movabs": 841163,
+  "target": 5369211347,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 842634,
+  "movabs": 842615,
+  "target": 5369359182,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 843100,
+  "movabs": 843081,
+  "target": 5369520292,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 843429,
+  "movabs": 843410,
+  "target": 5369758955,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 844327,
+  "movabs": 844308,
+  "target": 5369646633,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 846231,
+  "movabs": 846212,
+  "target": 5369220080,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 846823,
+  "movabs": 846804,
+  "target": 5369822358,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 848708,
+  "movabs": 848689,
+  "target": 5369768286,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 849063,
+  "movabs": 849044,
+  "target": 5369237771,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 851138,
+  "movabs": 851119,
+  "target": 5369544270,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 851542,
+  "movabs": 851523,
+  "target": 5369410774,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 851956,
+  "movabs": 851937,
+  "target": 5369333249,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 853778,
+  "movabs": 853759,
+  "target": 5369664867,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 854692,
+  "movabs": 854673,
+  "target": 5369506218,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 857333,
+  "movabs": 857314,
+  "target": 5369335952,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 858708,
+  "movabs": 858689,
+  "target": 5369614705,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 859375,
+  "movabs": 859356,
+  "target": 5369545037,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 860796,
+  "movabs": 860777,
+  "target": 5369443539,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 862367,
+  "movabs": 862348,
+  "target": 5369368713,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 863744,
+  "movabs": 863725,
+  "target": 5369703810,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 865542,
+  "movabs": 865523,
+  "target": 5369235015,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 866813,
+  "movabs": 866794,
+  "target": 5369300232,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 868323,
+  "movabs": 868304,
+  "target": 5369478467,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 869216,
+  "movabs": 869197,
+  "target": 5369360510,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 869807,
+  "movabs": 869788,
+  "target": 5369433098,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 870576,
+  "movabs": 870557,
+  "target": 5369809026,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 870967,
+  "movabs": 870948,
+  "target": 5369555621,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 872020,
+  "movabs": 872001,
+  "target": 5369568499,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 872939,
+  "movabs": 872920,
+  "target": 5369750920,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 873264,
+  "movabs": 873245,
+  "target": 5369559824,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 874954,
+  "movabs": 874935,
+  "target": 5369414845,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 876928,
+  "movabs": 876909,
+  "target": 5369216723,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 877351,
+  "movabs": 877332,
+  "target": 5369562902,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 878428,
+  "movabs": 878409,
+  "target": 5369563938,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 879954,
+  "movabs": 879935,
+  "target": 5369226123,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 880646,
+  "movabs": 880627,
+  "target": 5369475492,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 882755,
+  "movabs": 882736,
+  "target": 5369231812,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 884397,
+  "movabs": 884378,
+  "target": 5369786966,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 886127,
+  "movabs": 886108,
+  "target": 5369199787,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 889138,
+  "movabs": 889119,
+  "target": 5369238714,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 891340,
+  "movabs": 891321,
+  "target": 5369732289,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 892399,
+  "movabs": 892380,
+  "target": 5369784524,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 893227,
+  "movabs": 893208,
+  "target": 5369493387,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 893547,
+  "movabs": 893528,
+  "target": 5369793306,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 893938,
+  "movabs": 893919,
+  "target": 5369724289,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 894875,
+  "movabs": 894856,
+  "target": 5369238246,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 895365,
+  "movabs": 895346,
+  "target": 5369789928,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 895705,
+  "movabs": 895686,
+  "target": 5369399862,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 896904,
+  "movabs": 896885,
+  "target": 5369304468,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 897462,
+  "movabs": 897443,
+  "target": 5369632803,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 898173,
+  "movabs": 898154,
+  "target": 5369823744,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 900146,
+  "movabs": 900127,
+  "target": 5369717518,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 900935,
+  "movabs": 900916,
+  "target": 5369600572,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 901181,
+  "movabs": 901162,
+  "target": 5369363977,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 902125,
+  "movabs": 902106,
+  "target": 5369387945,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 903462,
+  "movabs": 903443,
+  "target": 5369328590,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 907162,
+  "movabs": 907143,
+  "target": 5369726257,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 907844,
+  "movabs": 907825,
+  "target": 5369449240,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 909078,
+  "movabs": 909059,
+  "target": 5369263802,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 909890,
+  "movabs": 909871,
+  "target": 5369284001,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 911471,
+  "movabs": 911452,
+  "target": 5369636738,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 912028,
+  "movabs": 912009,
+  "target": 5369704227,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 912503,
+  "movabs": 912484,
+  "target": 5369354036,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 913330,
+  "movabs": 913311,
+  "target": 5369583203,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 914089,
+  "movabs": 914070,
+  "target": 5369329783,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 914969,
+  "movabs": 914950,
+  "target": 5369481852,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 915851,
+  "movabs": 915832,
+  "target": 5369603331,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 918544,
+  "movabs": 918525,
+  "target": 5369682858,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 919468,
+  "movabs": 919449,
+  "target": 5369752204,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 920266,
+  "movabs": 920247,
+  "target": 5369362684,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 921693,
+  "movabs": 921674,
+  "target": 5369337021,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 922295,
+  "movabs": 922276,
+  "target": 5369337455,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 924560,
+  "movabs": 924541,
+  "target": 5369670439,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 929480,
+  "movabs": 929461,
+  "target": 5369295449,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 929813,
+  "movabs": 929794,
+  "target": 5369402177,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 930261,
+  "movabs": 930242,
+  "target": 5369702751,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 931919,
+  "movabs": 931900,
+  "target": 5369759445,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 934049,
+  "movabs": 934030,
+  "target": 5369817630,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 934868,
+  "movabs": 934849,
+  "target": 5369246301,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 935319,
+  "movabs": 935300,
+  "target": 5369500829,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 935803,
+  "movabs": 935784,
+  "target": 5369458071,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 937237,
+  "movabs": 937218,
+  "target": 5369817274,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 938552,
+  "movabs": 938533,
+  "target": 5369772886,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 939257,
+  "movabs": 939238,
+  "target": 5369434828,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 940071,
+  "movabs": 940052,
+  "target": 5369273636,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 940952,
+  "movabs": 940933,
+  "target": 5369243605,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 943033,
+  "movabs": 943014,
+  "target": 5369751961,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 943416,
+  "movabs": 943397,
+  "target": 5369443826,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 943614,
+  "movabs": 943595,
+  "target": 5369746292,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 943968,
+  "movabs": 943949,
+  "target": 5369325756,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 945304,
+  "movabs": 945285,
+  "target": 5369776690,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 946339,
+  "movabs": 946320,
+  "target": 5369394525,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 946638,
+  "movabs": 946619,
+  "target": 5369391053,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 947556,
+  "movabs": 947537,
+  "target": 5369604489,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 948397,
+  "movabs": 948378,
+  "target": 5369383819,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 948772,
+  "movabs": 948753,
+  "target": 5369811259,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 949710,
+  "movabs": 949691,
+  "target": 5369699567,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 954651,
+  "movabs": 954632,
+  "target": 5369528432,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 955743,
+  "movabs": 955724,
+  "target": 5369193033,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 957865,
+  "movabs": 957846,
+  "target": 5369589293,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 958128,
+  "movabs": 958109,
+  "target": 5369448365,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 958618,
+  "movabs": 958599,
+  "target": 5369590281,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 961750,
+  "movabs": 961731,
+  "target": 5369624093,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 963178,
+  "movabs": 963159,
+  "target": 5369474373,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 964530,
+  "movabs": 964511,
+  "target": 5369656694,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 965091,
+  "movabs": 965072,
+  "target": 5369496368,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 966955,
+  "movabs": 966936,
+  "target": 5369296046,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 967448,
+  "movabs": 967429,
+  "target": 5369415353,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 968040,
+  "movabs": 968021,
+  "target": 5369260273,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 969224,
+  "movabs": 969205,
+  "target": 5369540459,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 971530,
+  "movabs": 971511,
+  "target": 5369517473,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 972317,
+  "movabs": 972298,
+  "target": 5369293444,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 975378,
+  "movabs": 975359,
+  "target": 5369506916,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 976109,
+  "movabs": 976090,
+  "target": 5369399594,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 978227,
+  "movabs": 978208,
+  "target": 5369243284,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 978232,
+  "movabs": 978208,
+  "target": 5369243284,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 979161,
+  "movabs": 979142,
+  "target": 5369492105,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 979582,
+  "movabs": 979563,
+  "target": 5369404058,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 980682,
+  "movabs": 980663,
+  "target": 5369570702,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 981129,
+  "movabs": 981110,
+  "target": 5369321292,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 981451,
+  "movabs": 981432,
+  "target": 5369466168,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 984398,
+  "movabs": 984379,
+  "target": 5369391451,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 985942,
+  "movabs": 985923,
+  "target": 5369589077,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 988417,
+  "movabs": 988398,
+  "target": 5369353598,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 989053,
+  "movabs": 989034,
+  "target": 5369452347,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 989219,
+  "movabs": 989200,
+  "target": 5369600464,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 989806,
+  "movabs": 989787,
+  "target": 5369324142,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 991147,
+  "movabs": 991128,
+  "target": 5369281623,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 992985,
+  "movabs": 992966,
+  "target": 5369487545,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 993237,
+  "movabs": 993218,
+  "target": 5369800954,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 994686,
+  "movabs": 994667,
+  "target": 5369632034,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 995793,
+  "movabs": 995774,
+  "target": 5369353820,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 997107,
+  "movabs": 997088,
+  "target": 5369382654,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 997423,
+  "movabs": 997404,
+  "target": 5369280707,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 999247,
+  "movabs": 999228,
+  "target": 5369375693,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1000012,
+  "movabs": 999993,
+  "target": 5369279694,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1003770,
+  "movabs": 1003751,
+  "target": 5369273939,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1005414,
+  "movabs": 1005395,
+  "target": 5369200790,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1007004,
+  "movabs": 1006985,
+  "target": 5369299113,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1008394,
+  "movabs": 1008375,
+  "target": 5369754869,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1010132,
+  "movabs": 1010113,
+  "target": 5369380152,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1011746,
+  "movabs": 1011727,
+  "target": 5369760557,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1012049,
+  "movabs": 1012030,
+  "target": 5369395310,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1014320,
+  "movabs": 1014301,
+  "target": 5369250702,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1014730,
+  "movabs": 1014711,
+  "target": 5369209304,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1016734,
+  "movabs": 1016715,
+  "target": 5369591242,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1017133,
+  "movabs": 1017114,
+  "target": 5369548014,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1018877,
+  "movabs": 1018858,
+  "target": 5369265982,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1019439,
+  "movabs": 1019420,
+  "target": 5369414443,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1021547,
+  "movabs": 1021528,
+  "target": 5369639439,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1022816,
+  "movabs": 1022797,
+  "target": 5369786248,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1025337,
+  "movabs": 1025318,
+  "target": 5369379480,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1025615,
+  "movabs": 1025596,
+  "target": 5369555355,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1026103,
+  "movabs": 1026084,
+  "target": 5369413380,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1026647,
+  "movabs": 1026628,
+  "target": 5369347804,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1027691,
+  "movabs": 1027672,
+  "target": 5369448616,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1028237,
+  "movabs": 1028218,
+  "target": 5369215873,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1030121,
+  "movabs": 1030102,
+  "target": 5369772430,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1032020,
+  "movabs": 1032001,
+  "target": 5369592247,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1033788,
+  "movabs": 1033769,
+  "target": 5369618776,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1034644,
+  "movabs": 1034625,
+  "target": 5369678908,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1035527,
+  "movabs": 1035508,
+  "target": 5369729973,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1036036,
+  "movabs": 1036017,
+  "target": 5369571772,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1037169,
+  "movabs": 1037150,
+  "target": 5369334432,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1037421,
+  "movabs": 1037402,
+  "target": 5369246976,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1041132,
+  "movabs": 1041113,
+  "target": 5369379161,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1045220,
+  "movabs": 1045201,
+  "target": 5369687350,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1047503,
+  "movabs": 1047484,
+  "target": 5369243963,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1047786,
+  "movabs": 1047767,
+  "target": 5369753592,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1049008,
+  "movabs": 1048989,
+  "target": 5369712894,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1052576,
+  "movabs": 1052557,
+  "target": 5369609269,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1053365,
+  "movabs": 1053346,
+  "target": 5369683203,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1054317,
+  "movabs": 1054298,
+  "target": 5369508817,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1055881,
+  "movabs": 1055862,
+  "target": 5369442569,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1056424,
+  "movabs": 1056405,
+  "target": 5369351007,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1057270,
+  "movabs": 1057251,
+  "target": 5369692337,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1057981,
+  "movabs": 1057962,
+  "target": 5369435959,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1063763,
+  "movabs": 1063744,
+  "target": 5369807353,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1064550,
+  "movabs": 1064531,
+  "target": 5369821347,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1066144,
+  "movabs": 1066125,
+  "target": 5369667742,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1066624,
+  "movabs": 1066605,
+  "target": 5369279370,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1067059,
+  "movabs": 1067040,
+  "target": 5369454118,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1070437,
+  "movabs": 1070418,
+  "target": 5369545489,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1072660,
+  "movabs": 1072641,
+  "target": 5369344388,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1073768,
+  "movabs": 1073749,
+  "target": 5369633684,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1074329,
+  "movabs": 1074310,
+  "target": 5369819496,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1075400,
+  "movabs": 1075381,
+  "target": 5369248138,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1076066,
+  "movabs": 1076047,
+  "target": 5369668007,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1079816,
+  "movabs": 1079797,
+  "target": 5369684502,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1080804,
+  "movabs": 1080785,
+  "target": 5369250725,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1082692,
+  "movabs": 1082673,
+  "target": 5369489910,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1085056,
+  "movabs": 1085037,
+  "target": 5369830109,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1087490,
+  "movabs": 1087471,
+  "target": 5369196185,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1088002,
+  "movabs": 1087983,
+  "target": 5369345734,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1088392,
+  "movabs": 1088373,
+  "target": 5369320307,
+  "op": "add",
+  "reg": "r11",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1088919,
+  "movabs": 1088900,
+  "target": 5369753923,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1090539,
+  "movabs": 1090520,
+  "target": 5369241521,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1097867,
+  "movabs": 1097848,
+  "target": 5369405623,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1100300,
+  "movabs": 1100281,
+  "target": 5369553451,
+  "op": "add",
+  "reg": "r8",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1102630,
+  "movabs": 1102611,
+  "target": 5369578930,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1104182,
+  "movabs": 1104163,
+  "target": 5369497785,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1110373,
+  "movabs": 1110354,
+  "target": 5369624974,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1112223,
+  "movabs": 1112204,
+  "target": 5369444968,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1112852,
+  "movabs": 1112833,
+  "target": 5369606586,
+  "op": "add",
+  "reg": "r9",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1113786,
+  "movabs": 1113767,
+  "target": 5369755824,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1114621,
+  "movabs": 1114602,
+  "target": 5369828346,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1117649,
+  "movabs": 1117630,
+  "target": 5369244204,
+  "op": "add",
+  "reg": "r10",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1118715,
+  "movabs": 1118696,
+  "target": 5369726687,
+  "op": "add",
+  "reg": "rdx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1120153,
+  "movabs": 1120134,
+  "target": 5369208758,
+  "op": "add",
+  "reg": "rcx",
+  "sec": ".tvm0"
+ },
+ {
+  "site": 1121305,
+  "movabs": 1121286,
+  "target": 5369530726,
+  "op": "add",
+  "reg": "rax",
+  "sec": ".tvm0"
+ }
+]

@@ -1,0 +1,116 @@
+{
+ "pages": {
+  "0x5e000": {
+   "ntoskrnl.exe!IoGetCurrentProcess": 1
+  },
+  "0x60000": {
+   "ntoskrnl.exe!KeBugCheckEx": 2
+  },
+  "0x61000": {
+   "ntoskrnl.exe!KeBugCheckEx": 3
+  },
+  "0x62000": {
+   "ntoskrnl.exe!KeWaitForSingleObject": 1,
+   "ntoskrnl.exe!KeSetEvent": 1,
+   "ntoskrnl.exe!PsGetCurrentProcessId": 1,
+   "ntoskrnl.exe!PsLookupProcessByProcessId": 1,
+   "ntoskrnl.exe!ObfDereferenceObject": 1
+  },
+  "0x63000": {
+   "ntoskrnl.exe!PsGetCurrentProcessId": 1
+  },
+  "0x64000": {
+   "ntoskrnl.exe!PsGetCurrentProcessId": 2
+  },
+  "0x65000": {
+   "ntoskrnl.exe!PsGetCurrentProcessId": 3,
+   "ntoskrnl.exe!ObfDereferenceObject": 2
+  },
+  "0x66000": {
+   "ntoskrnl.exe!PsGetCurrentProcessId": 5
+  },
+  "0x67000": {
+   "ntoskrnl.exe!PsGetCurrentProcessId": 3,
+   "ntoskrnl.exe!IoGetCurrentProcess": 1
+  },
+  "0x68000": {
+   "ntoskrnl.exe!ObfDereferenceObject": 2,
+   "ntoskrnl.exe!PsGetCurrentProcessId": 4
+  },
+  "0x69000": {
+   "ntoskrnl.exe!PsGetCurrentProcessId": 7
+  },
+  "0x6a000": {
+   "ntoskrnl.exe!ObfDereferenceObject": 1
+  },
+  "0x6c000": {
+   "ntoskrnl.exe!PsGetCurrentProcessId": 1,
+   "ntoskrnl.exe!PsGetCurrentThreadId": 1,
+   "ntoskrnl.exe!ExAllocatePoolWithTag": 1
+  },
+  "0x6d000": {
+   "ntoskrnl.exe!IofCompleteRequest": 1,
+   "ntoskrnl.exe!IoCreateNotificationEvent": 1,
+   "ntoskrnl.exe!RtlInitUnicodeString": 1
+  },
+  "0x6e000": {
+   "ntoskrnl.exe!KeInitializeGuardedMutex": 1
+  },
+  "0x6f000": {
+   "ntoskrnl.exe!KeClearEvent": 1,
+   "ntoskrnl.exe!KeInitializeEvent": 1,
+   "ntoskrnl.exe!IoDeleteSymbolicLink": 1
+  },
+  "0x70000": {
+   "ntoskrnl.exe!KeSetEvent": 1,
+   "ntoskrnl.exe!ZwClose": 1,
+   "ntoskrnl.exe!KeBugCheckEx": 1,
+   "ntoskrnl.exe!IoDeleteDevice": 1,
+   "ntoskrnl.exe!RtlInitUnicodeString": 1
+  },
+  "0x71000": {
+   "ntoskrnl.exe!KeInitializeGuardedMutex": 1
+  },
+  "0x72000": {
+   "ntoskrnl.exe!PsGetCurrentProcessId": 2,
+   "ntoskrnl.exe!ExAllocatePoolWithTag": 1,
+   "ntoskrnl.exe!KeInitializeGuardedMutex": 1,
+   "ntoskrnl.exe!KeAcquireGuardedMutex": 1,
+   "ntoskrnl.exe!KeReleaseGuardedMutex": 1
+  },
+  "0x74000": {
+   "ntoskrnl.exe!KeAcquireGuardedMutex": 2,
+   "ntoskrnl.exe!KeReleaseGuardedMutex": 2,
+   "ntoskrnl.exe!ExFreePoolWithTag": 1,
+   "ntoskrnl.exe!ExAllocatePoolWithTag": 1
+  },
+  "0x75000": {
+   "ntoskrnl.exe!ExFreePoolWithTag": 6,
+   "ntoskrnl.exe!ExAllocatePoolWithTag": 1,
+   "ntoskrnl.exe!IofCompleteRequest": 1
+  }
+ },
+ "total": {
+  "ntoskrnl.exe!IoGetCurrentProcess": 2,
+  "ntoskrnl.exe!KeBugCheckEx": 6,
+  "ntoskrnl.exe!KeWaitForSingleObject": 1,
+  "ntoskrnl.exe!KeSetEvent": 2,
+  "ntoskrnl.exe!PsGetCurrentProcessId": 29,
+  "ntoskrnl.exe!PsLookupProcessByProcessId": 1,
+  "ntoskrnl.exe!ObfDereferenceObject": 6,
+  "ntoskrnl.exe!PsGetCurrentThreadId": 1,
+  "ntoskrnl.exe!ExAllocatePoolWithTag": 4,
+  "ntoskrnl.exe!IofCompleteRequest": 2,
+  "ntoskrnl.exe!IoCreateNotificationEvent": 1,
+  "ntoskrnl.exe!RtlInitUnicodeString": 2,
+  "ntoskrnl.exe!KeInitializeGuardedMutex": 3,
+  "ntoskrnl.exe!KeClearEvent": 1,
+  "ntoskrnl.exe!KeInitializeEvent": 1,
+  "ntoskrnl.exe!IoDeleteSymbolicLink": 1,
+  "ntoskrnl.exe!ZwClose": 1,
+  "ntoskrnl.exe!IoDeleteDevice": 1,
+  "ntoskrnl.exe!KeAcquireGuardedMutex": 3,
+  "ntoskrnl.exe!KeReleaseGuardedMutex": 3,
+  "ntoskrnl.exe!ExFreePoolWithTag": 7
+ }
+}

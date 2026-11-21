@@ -1,0 +1,108 @@
+{
+ "3": [
+  "ntoskrnl.exe!ExAllocatePoolWithTag",
+  "ntoskrnl.exe!ExFreePoolWithTag",
+  "ntoskrnl.exe!IoRegisterShutdownNotification",
+  "ntoskrnl.exe!IoUnregisterShutdownNotification",
+  "ntoskrnl.exe!KeBugCheckEx",
+  "ntoskrnl.exe!KeInitializeGuardedMutex",
+  "ntoskrnl.exe!KeQueryTimeIncrement",
+  "ntoskrnl.exe!MmGetSystemRoutineAddress",
+  "ntoskrnl.exe!MmIsAddressValid",
+  "ntoskrnl.exe!RtlInitUnicodeString"
+ ],
+ "4": [
+  "ntoskrnl.exe!ExAllocatePoolWithTag",
+  "ntoskrnl.exe!ExFreePoolWithTag",
+  "ntoskrnl.exe!IoRegisterShutdownNotification",
+  "ntoskrnl.exe!IoUnregisterShutdownNotification",
+  "ntoskrnl.exe!KeBugCheckEx",
+  "ntoskrnl.exe!KeInitializeGuardedMutex",
+  "ntoskrnl.exe!KeQueryTimeIncrement",
+  "ntoskrnl.exe!MmGetSystemRoutineAddress",
+  "ntoskrnl.exe!MmIsAddressValid",
+  "ntoskrnl.exe!RtlInitUnicodeString"
+ ],
+ "5": [
+  "ntoskrnl.exe!ExAllocatePoolWithTag",
+  "ntoskrnl.exe!ExFreePoolWithTag",
+  "ntoskrnl.exe!KeBugCheckEx",
+  "ntoskrnl.exe!KeQueryTimeIncrement",
+  "ntoskrnl.exe!MmGetSystemRoutineAddress",
+  "ntoskrnl.exe!MmIsAddressValid",
+  "ntoskrnl.exe!RtlInitUnicodeString"
+ ],
+ "9": [
+  "ntoskrnl.exe!ExAllocatePoolWithTag",
+  "ntoskrnl.exe!ExFreePoolWithTag",
+  "ntoskrnl.exe!KeBugCheckEx",
+  "ntoskrnl.exe!KeQueryTimeIncrement",
+  "ntoskrnl.exe!MmGetSystemRoutineAddress",
+  "ntoskrnl.exe!MmIsAddressValid",
+  "ntoskrnl.exe!RtlInitUnicodeString"
+ ],
+ "10": [
+  "ntoskrnl.exe!ExAllocatePoolWithTag",
+  "ntoskrnl.exe!ExFreePoolWithTag",
+  "ntoskrnl.exe!IoRegisterShutdownNotification",
+  "ntoskrnl.exe!IoUnregisterShutdownNotification",
+  "ntoskrnl.exe!KeBugCheckEx",
+  "ntoskrnl.exe!KeInitializeGuardedMutex",
+  "ntoskrnl.exe!KeQueryTimeIncrement",
+  "ntoskrnl.exe!MmGetSystemRoutineAddress",
+  "ntoskrnl.exe!MmIsAddressValid",
+  "ntoskrnl.exe!RtlInitUnicodeString"
+ ],
+ "0": [
+  "ntoskrnl.exe!ExAllocatePoolWithTag",
+  "ntoskrnl.exe!ExFreePoolWithTag",
+  "ntoskrnl.exe!IoRegisterShutdownNotification",
+  "ntoskrnl.exe!IoUnregisterShutdownNotification",
+  "ntoskrnl.exe!KeBugCheckEx",
+  "ntoskrnl.exe!KeInitializeGuardedMutex",
+  "ntoskrnl.exe!KeQueryTimeIncrement",
+  "ntoskrnl.exe!MmGetSystemRoutineAddress",
+  "ntoskrnl.exe!MmIsAddressValid",
+  "ntoskrnl.exe!RtlInitUnicodeString"
+ ],
+ "1": [
+  "ntoskrnl.exe!ExAllocatePoolWithTag",
+  "ntoskrnl.exe!ExFreePoolWithTag",
+  "ntoskrnl.exe!IoRegisterShutdownNotification",
+  "ntoskrnl.exe!IoUnregisterShutdownNotification",
+  "ntoskrnl.exe!KeBugCheckEx",
+  "ntoskrnl.exe!KeInitializeGuardedMutex",
+  "ntoskrnl.exe!KeQueryTimeIncrement",
+  "ntoskrnl.exe!MmGetSystemRoutineAddress",
+  "ntoskrnl.exe!MmIsAddressValid",
+  "ntoskrnl.exe!RtlInitUnicodeString"
+ ],
+ "2": [
+  "ntoskrnl.exe!MmGetSystemRoutineAddress",
+  "ntoskrnl.exe!RtlInitUnicodeString"
+ ],
+ "8": [
+  "ntoskrnl.exe!ExAllocatePoolWithTag",
+  "ntoskrnl.exe!ExFreePoolWithTag",
+  "ntoskrnl.exe!IoRegisterShutdownNotification",
+  "ntoskrnl.exe!IoUnregisterShutdownNotification",
+  "ntoskrnl.exe!KeBugCheckEx",
+  "ntoskrnl.exe!KeInitializeGuardedMutex",
+  "ntoskrnl.exe!KeQueryTimeIncrement",
+  "ntoskrnl.exe!MmGetSystemRoutineAddress",
+  "ntoskrnl.exe!MmIsAddressValid",
+  "ntoskrnl.exe!RtlInitUnicodeString"
+ ],
+ "11": [
+  "ntoskrnl.exe!ExAllocatePoolWithTag",
+  "ntoskrnl.exe!ExFreePoolWithTag",
+  "ntoskrnl.exe!IoRegisterShutdownNotification",
+  "ntoskrnl.exe!IoUnregisterShutdownNotification",
+  "ntoskrnl.exe!KeBugCheckEx",
+  "ntoskrnl.exe!KeInitializeGuardedMutex",
+  "ntoskrnl.exe!KeQueryTimeIncrement",
+  "ntoskrnl.exe!MmGetSystemRoutineAddress",
+  "ntoskrnl.exe!MmIsAddressValid",
+  "ntoskrnl.exe!RtlInitUnicodeString"
+ ]
+}

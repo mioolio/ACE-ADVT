@@ -1,0 +1,1315 @@
+[
+ {
+  "begin": 382511,
+  "end": 383008,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x16960"
+  ]
+ },
+ {
+  "begin": 383130,
+  "end": 383631,
+  "size": 501,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!KeQueryTimeIncrement"
+  ],
+  "tags": [],
+  "top_helpers": [
+   "0x15900"
+  ]
+ },
+ {
+  "begin": 383722,
+  "end": 384219,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x1c560"
+  ]
+ },
+ {
+  "begin": 384312,
+  "end": 384814,
+  "size": 502,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 384821,
+  "end": 385318,
+  "size": 497,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!MmGetSystemRoutineAddress",
+   "ntoskrnl.exe!PsGetCurrentProcessId",
+   "ntoskrnl.exe!RtlInitUnicodeString"
+  ],
+  "tags": [
+   "process"
+  ],
+  "top_helpers": [
+   "0x16820"
+  ]
+ },
+ {
+  "begin": 385325,
+  "end": 385820,
+  "size": 495,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x72f0"
+  ]
+ },
+ {
+  "begin": 385827,
+  "end": 386322,
+  "size": 495,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!IoGetCurrentProcess",
+   "ntoskrnl.exe!MmGetSystemRoutineAddress",
+   "ntoskrnl.exe!RtlInitUnicodeString"
+  ],
+  "tags": [
+   "process"
+  ],
+  "top_helpers": [
+   "0x166d0"
+  ]
+ },
+ {
+  "begin": 386329,
+  "end": 386828,
+  "size": 499,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!ExAllocatePoolWithTag",
+   "ntoskrnl.exe!ExFreePoolWithTag",
+   "ntoskrnl.exe!KeDeregisterBugCheckReasonCallback",
+   "ntoskrnl.exe!KeRegisterBugCheckReasonCallback"
+  ],
+  "tags": [
+   "bugcheck",
+   "pool"
+  ],
+  "top_helpers": [
+   "0x6e30"
+  ]
+ },
+ {
+  "begin": 386835,
+  "end": 387336,
+  "size": 501,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!MmGetSystemRoutineAddress",
+   "ntoskrnl.exe!RtlInitUnicodeString"
+  ],
+  "tags": [],
+  "top_helpers": [
+   "0x17160"
+  ]
+ },
+ {
+  "begin": 387413,
+  "end": 387908,
+  "size": 495,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 387915,
+  "end": 388414,
+  "size": 499,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!RtlGetVersion"
+  ],
+  "tags": [
+   "registry"
+  ],
+  "top_helpers": [
+   "0x1bca0"
+  ]
+ },
+ {
+  "begin": 388421,
+  "end": 388918,
+  "size": 497,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!KeQueryTimeIncrement"
+  ],
+  "tags": [],
+  "top_helpers": [
+   "0x15900"
+  ]
+ },
+ {
+  "begin": 388925,
+  "end": 389423,
+  "size": 498,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 389545,
+  "end": 390042,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x7350"
+  ]
+ },
+ {
+  "begin": 390049,
+  "end": 390546,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x11400"
+  ]
+ },
+ {
+  "begin": 390553,
+  "end": 391052,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x9000"
+  ]
+ },
+ {
+  "begin": 391059,
+  "end": 391552,
+  "size": 493,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 391559,
+  "end": 392058,
+  "size": 499,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!ExFreePoolWithTag",
+   "ntoskrnl.exe!KeDeregisterBugCheckReasonCallback"
+  ],
+  "tags": [
+   "bugcheck",
+   "pool"
+  ],
+  "top_helpers": [
+   "0x7170"
+  ]
+ },
+ {
+  "begin": 392065,
+  "end": 392560,
+  "size": 495,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x2940"
+  ]
+ },
+ {
+  "begin": 392567,
+  "end": 393066,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x11e20"
+  ]
+ },
+ {
+  "begin": 393073,
+  "end": 393572,
+  "size": 499,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!KeBugCheckEx"
+  ],
+  "tags": [
+   "bugcheck"
+  ],
+  "top_helpers": [
+   "0x76b0"
+  ]
+ },
+ {
+  "begin": 393795,
+  "end": 394292,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x7f50"
+  ]
+ },
+ {
+  "begin": 394299,
+  "end": 394801,
+  "size": 502,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 394808,
+  "end": 395301,
+  "size": 493,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 395308,
+  "end": 395809,
+  "size": 501,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x13ab0"
+  ]
+ },
+ {
+  "begin": 395816,
+  "end": 396142,
+  "size": 326,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 396149,
+  "end": 396646,
+  "size": 497,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!ExUnregisterCallback",
+   "ntoskrnl.exe!ObfDereferenceObject"
+  ],
+  "tags": [
+   "process"
+  ],
+  "top_helpers": [
+   "0x7e30"
+  ]
+ },
+ {
+  "begin": 396653,
+  "end": 397152,
+  "size": 499,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!ExFreePoolWithTag"
+  ],
+  "tags": [
+   "pool"
+  ],
+  "top_helpers": [
+   "0x1cda0"
+  ]
+ },
+ {
+  "begin": 397159,
+  "end": 397661,
+  "size": 502,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 397668,
+  "end": 398167,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x23a0"
+  ]
+ },
+ {
+  "begin": 398174,
+  "end": 398671,
+  "size": 497,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!KeAcquireGuardedMutex"
+  ],
+  "tags": [
+   "sync"
+  ],
+  "top_helpers": [
+   "0x7a80"
+  ]
+ },
+ {
+  "begin": 398795,
+  "end": 399290,
+  "size": 495,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x7c90"
+  ]
+ },
+ {
+  "begin": 399297,
+  "end": 399813,
+  "size": 516,
+  "helpers": 2,
+  "apis": [
+   "ntoskrnl.exe!KeQueryTimeIncrement",
+   "ntoskrnl.exe!ZwOpenProcess"
+  ],
+  "tags": [
+   "process"
+  ],
+  "top_helpers": [
+   "0x15900",
+   "0x1e8a0"
+  ]
+ },
+ {
+  "begin": 399813,
+  "end": 400838,
+  "size": 1025,
+  "helpers": 6,
+  "apis": [
+   "ntoskrnl.exe!ExFreePoolWithTag",
+   "ntoskrnl.exe!KeBugCheckEx",
+   "ntoskrnl.exe!KeDelayExecutionThread",
+   "ntoskrnl.exe!KeStackAttachProcess",
+   "ntoskrnl.exe!KeUnstackDetachProcess",
+   "ntoskrnl.exe!ObfDereferenceObject",
+   "ntoskrnl.exe!PsLookupProcessByProcessId",
+   "ntoskrnl.exe!ZwClose",
+   "ntoskrnl.exe!ZwOpenProcess",
+   "ntoskrnl.exe!ZwQueryInformationProcess"
+  ],
+  "tags": [
+   "process",
+   "bugcheck",
+   "pool"
+  ],
+  "top_helpers": [
+   "0x78d0",
+   "0x8cf0",
+   "0x159b0",
+   "0xc3c0"
+  ]
+ },
+ {
+  "begin": 400838,
+  "end": 402663,
+  "size": 1825,
+  "helpers": 9,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x2e780",
+   "0x20580",
+   "0x5c40",
+   "0x3000"
+  ]
+ },
+ {
+  "begin": 402865,
+  "end": 407854,
+  "size": 4989,
+  "helpers": 29,
+  "apis": [
+   "ntoskrnl.exe!IoRegisterShutdownNotification",
+   "ntoskrnl.exe!IoUnregisterShutdownNotification",
+   "ntoskrnl.exe!KeBugCheckEx",
+   "ntoskrnl.exe!KeInitializeGuardedMutex",
+   "ntoskrnl.exe!KeQueryTimeIncrement",
+   "ntoskrnl.exe!MmGetSystemRoutineAddress",
+   "ntoskrnl.exe!MmIsAddressValid",
+   "ntoskrnl.exe!RtlInitUnicodeString"
+  ],
+  "tags": [
+   "bugcheck",
+   "unload",
+   "sync"
+  ],
+  "top_helpers": [
+   "0x7590",
+   "0x78d0",
+   "0x1d20",
+   "0x1b790"
+  ]
+ },
+ {
+  "begin": 407854,
+  "end": 408198,
+  "size": 344,
+  "helpers": 2,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0xc2f0",
+   "0x2060"
+  ]
+ },
+ {
+  "begin": 408477,
+  "end": 408617,
+  "size": 140,
+  "helpers": 2,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0xc360",
+   "0x2060"
+  ]
+ },
+ {
+  "begin": 408617,
+  "end": 437270,
+  "size": 28653,
+  "helpers": 41,
+  "apis": [
+   "ntoskrnl.exe!ExAllocatePoolWithTag",
+   "ntoskrnl.exe!ExFreePoolWithTag",
+   "ntoskrnl.exe!ExGetPreviousMode",
+   "ntoskrnl.exe!IoGetCurrentProcess",
+   "ntoskrnl.exe!KeBugCheckEx",
+   "ntoskrnl.exe!MmIsAddressValid",
+   "ntoskrnl.exe!ObReferenceObjectByHandle",
+   "ntoskrnl.exe!ObfDereferenceObject",
+   "ntoskrnl.exe!ProbeForWrite",
+   "ntoskrnl.exe!PsGetCurrentProcessId",
+   "ntoskrnl.exe!PsLookupProcessByProcessId",
+   "ntoskrnl.exe!ZwClose"
+  ],
+  "tags": [
+   "process",
+   "pool",
+   "bugcheck"
+  ],
+  "top_helpers": [
+   "0x8350",
+   "0x7590",
+   "0x1c590",
+   "0x78d0"
+  ]
+ },
+ {
+  "begin": 437361,
+  "end": 437857,
+  "size": 496,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 437864,
+  "end": 438364,
+  "size": 500,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 438371,
+  "end": 438865,
+  "size": 494,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 438872,
+  "end": 439368,
+  "size": 496,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 439375,
+  "end": 439874,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x2070"
+  ]
+ },
+ {
+  "begin": 439984,
+  "end": 440485,
+  "size": 501,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x20a40"
+  ]
+ },
+ {
+  "begin": 440492,
+  "end": 440991,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x1f790"
+  ]
+ },
+ {
+  "begin": 440998,
+  "end": 441495,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x6340"
+  ]
+ },
+ {
+  "begin": 441502,
+  "end": 441999,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x20d00"
+  ]
+ },
+ {
+  "begin": 442006,
+  "end": 442503,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x7f80"
+  ]
+ },
+ {
+  "begin": 442556,
+  "end": 443051,
+  "size": 495,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x20b10"
+  ]
+ },
+ {
+  "begin": 443133,
+  "end": 443631,
+  "size": 498,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 443638,
+  "end": 444137,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0xedb0"
+  ]
+ },
+ {
+  "begin": 444270,
+  "end": 444667,
+  "size": 397,
+  "helpers": 2,
+  "apis": [
+   "ntoskrnl.exe!KeQueryTimeIncrement",
+   "ntoskrnl.exe!MmGetSystemRoutineAddress",
+   "ntoskrnl.exe!PsGetCurrentProcessId",
+   "ntoskrnl.exe!RtlInitUnicodeString"
+  ],
+  "tags": [
+   "process"
+  ],
+  "top_helpers": [
+   "0x16820",
+   "0x15900"
+  ]
+ },
+ {
+  "begin": 444866,
+  "end": 446321,
+  "size": 1455,
+  "helpers": 3,
+  "apis": [
+   "ntoskrnl.exe!PsGetCurrentProcessId",
+   "ntoskrnl.exe!PsGetCurrentThreadId"
+  ],
+  "tags": [
+   "process"
+  ],
+  "top_helpers": [
+   "0x1f790",
+   "0x20980",
+   "0x210a0"
+  ]
+ },
+ {
+  "begin": 446321,
+  "end": 446934,
+  "size": 613,
+  "helpers": 2,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x2090",
+   "0x2480"
+  ]
+ },
+ {
+  "begin": 446934,
+  "end": 447372,
+  "size": 438,
+  "helpers": 5,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x2e780",
+   "0x1aa20",
+   "0x1a8c0",
+   "0x1aa70"
+  ]
+ },
+ {
+  "begin": 447372,
+  "end": 447652,
+  "size": 280,
+  "helpers": 3,
+  "apis": [
+   "ntoskrnl.exe!KeDelayExecutionThread"
+  ],
+  "tags": [],
+  "top_helpers": [
+   "0x1aa20",
+   "0x1a750",
+   "0x159b0"
+  ]
+ },
+ {
+  "begin": 447758,
+  "end": 448255,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x28e0"
+  ]
+ },
+ {
+  "begin": 448262,
+  "end": 448760,
+  "size": 498,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 448767,
+  "end": 449267,
+  "size": 500,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 449274,
+  "end": 449774,
+  "size": 500,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 449781,
+  "end": 450280,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0xedb0"
+  ]
+ },
+ {
+  "begin": 450452,
+  "end": 450952,
+  "size": 500,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 450959,
+  "end": 451456,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x2280"
+  ]
+ },
+ {
+  "begin": 451463,
+  "end": 451961,
+  "size": 498,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 451968,
+  "end": 452466,
+  "size": 498,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 452473,
+  "end": 452970,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x20a0"
+  ]
+ },
+ {
+  "begin": 452977,
+  "end": 453473,
+  "size": 496,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 453480,
+  "end": 453974,
+  "size": 494,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 453981,
+  "end": 454477,
+  "size": 496,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 454484,
+  "end": 454980,
+  "size": 496,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 454987,
+  "end": 455489,
+  "size": 502,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 455665,
+  "end": 456163,
+  "size": 498,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 456170,
+  "end": 456664,
+  "size": 494,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 456671,
+  "end": 457166,
+  "size": 495,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!KeQueryTimeIncrement"
+  ],
+  "tags": [],
+  "top_helpers": [
+   "0x15900"
+  ]
+ },
+ {
+  "begin": 457267,
+  "end": 457765,
+  "size": 498,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 457803,
+  "end": 458131,
+  "size": 328,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 458138,
+  "end": 458639,
+  "size": 501,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!KeQueryTimeIncrement"
+  ],
+  "tags": [],
+  "top_helpers": [
+   "0x15900"
+  ]
+ },
+ {
+  "begin": 458646,
+  "end": 459137,
+  "size": 491,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 459144,
+  "end": 459643,
+  "size": 499,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!KeDelayExecutionThread"
+  ],
+  "tags": [],
+  "top_helpers": [
+   "0x159b0"
+  ]
+ },
+ {
+  "begin": 459650,
+  "end": 460150,
+  "size": 500,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 460157,
+  "end": 460659,
+  "size": 502,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 460894,
+  "end": 461392,
+  "size": 498,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 461399,
+  "end": 461899,
+  "size": 500,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 461998,
+  "end": 462493,
+  "size": 495,
+  "helpers": 1,
+  "apis": [
+   "ntoskrnl.exe!KeDelayExecutionThread"
+  ],
+  "tags": [],
+  "top_helpers": [
+   "0x159b0"
+  ]
+ },
+ {
+  "begin": 462500,
+  "end": 462998,
+  "size": 498,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 463005,
+  "end": 463502,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x23d0"
+  ]
+ },
+ {
+  "begin": 463509,
+  "end": 464362,
+  "size": 853,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x210a0"
+  ]
+ },
+ {
+  "begin": 464468,
+  "end": 464966,
+  "size": 498,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 465061,
+  "end": 465560,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0xb660"
+  ]
+ },
+ {
+  "begin": 465598,
+  "end": 466097,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x1ce80"
+  ]
+ },
+ {
+  "begin": 466213,
+  "end": 466714,
+  "size": 501,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x1cf90"
+  ]
+ },
+ {
+  "begin": 466827,
+  "end": 468865,
+  "size": 2038,
+  "helpers": 7,
+  "apis": [
+   "ntoskrnl.exe!KeQueryTimeIncrement"
+  ],
+  "tags": [],
+  "top_helpers": [
+   "0xca70",
+   "0xdc00",
+   "0x15900",
+   "0x8ba0"
+  ]
+ },
+ {
+  "begin": 468963,
+  "end": 469459,
+  "size": 496,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 469466,
+  "end": 469965,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0xedb0"
+  ]
+ },
+ {
+  "begin": 470325,
+  "end": 470819,
+  "size": 494,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 470826,
+  "end": 472384,
+  "size": 1558,
+  "helpers": 4,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x12bd0",
+   "0x12ce0",
+   "0x12350",
+   "0x12b40"
+  ]
+ },
+ {
+  "begin": 472384,
+  "end": 473917,
+  "size": 1533,
+  "helpers": 4,
+  "apis": [
+   "ntoskrnl.exe!KeBugCheckEx"
+  ],
+  "tags": [
+   "bugcheck"
+  ],
+  "top_helpers": [
+   "0x13560",
+   "0x13640",
+   "0x134d0",
+   "0x13200"
+  ]
+ },
+ {
+  "begin": 473917,
+  "end": 474190,
+  "size": 273,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x12bd0"
+  ]
+ },
+ {
+  "begin": 474190,
+  "end": 474448,
+  "size": 258,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x13560"
+  ]
+ },
+ {
+  "begin": 474448,
+  "end": 474784,
+  "size": 336,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0xb780"
+  ]
+ },
+ {
+  "begin": 475296,
+  "end": 476559,
+  "size": 1263,
+  "helpers": 10,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x1d060",
+   "0xb710",
+   "0xedd0",
+   "0xc630"
+  ]
+ },
+ {
+  "begin": 476856,
+  "end": 477353,
+  "size": 497,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x1f790"
+  ]
+ },
+ {
+  "begin": 477360,
+  "end": 477861,
+  "size": 501,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x8140"
+  ]
+ },
+ {
+  "begin": 477989,
+  "end": 478728,
+  "size": 739,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 478728,
+  "end": 480144,
+  "size": 1416,
+  "helpers": 4,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x2e780",
+   "0x21cc0",
+   "0x21f60",
+   "0x21c80"
+  ]
+ },
+ {
+  "begin": 480144,
+  "end": 482009,
+  "size": 1865,
+  "helpers": 6,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x2e780",
+   "0x2e440",
+   "0x21cc0",
+   "0x21f60"
+  ]
+ },
+ {
+  "begin": 482544,
+  "end": 483043,
+  "size": 499,
+  "helpers": 1,
+  "apis": [],
+  "tags": [],
+  "top_helpers": [
+   "0x23c0"
+  ]
+ },
+ {
+  "begin": 483151,
+  "end": 483653,
+  "size": 502,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 483875,
+  "end": 1121674,
+  "size": 637799,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ },
+ {
+  "begin": 1121674,
+  "end": 1121677,
+  "size": 3,
+  "helpers": 0,
+  "apis": [],
+  "tags": [],
+  "top_helpers": []
+ }
+]

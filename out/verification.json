@@ -1,0 +1,184 @@
+{
+ "reference": {
+  "path": "<TARGET_SYS>",
+  "size": 1168048,
+  "sha256": "4c144c62acb297ce536f89caa9727ecd6aabc5d048a66a53eb9a937e51523ff8",
+  "md5": "a58a193204c35947eb6cca919e4484f6"
+ },
+ "rebuilt": {
+  "path": "<PROJECT_ROOT>\\out\\rebuild\\ACE-ADVT.rebuilt.sys",
+  "size": 1168048,
+  "sha256": "4c144c62acb297ce536f89caa9727ecd6aabc5d048a66a53eb9a937e51523ff8",
+  "md5": "a58a193204c35947eb6cca919e4484f6"
+ },
+ "identical": true,
+ "differing_bytes": 0,
+ "checksum": {
+  "stored": 1199744,
+  "recomputed": 1199744
+ },
+ "structure": {
+  "entry_point": "0x46000",
+  "size_of_image": "0x129000",
+  "sections": [
+   {
+    "name": ".text",
+    "va": "0x1000",
+    "vsize": 186492,
+    "raw_ptr": "0x400",
+    "raw_size": 186880
+   },
+   {
+    "name": ".rdata",
+    "va": "0x2f000",
+    "vsize": 22828,
+    "raw_ptr": "0x2de00",
+    "raw_size": 23040
+   },
+   {
+    "name": ".data",
+    "va": "0x35000",
+    "vsize": 50178,
+    "raw_ptr": "0x33800",
+    "raw_size": 1024
+   },
+   {
+    "name": ".pdata",
+    "va": "0x42000",
+    "vsize": 12420,
+    "raw_ptr": "0x33c00",
+    "raw_size": 12800
+   },
+   {
+    "name": "INIT",
+    "va": "0x46000",
+    "vsize": 2762,
+    "raw_ptr": "0x36e00",
+    "raw_size": 3072
+   },
+   {
+    "name": ".rsrc",
+    "va": "0x47000",
+    "vsize": 1008,
+    "raw_ptr": "0x37a00",
+    "raw_size": 1024
+   },
+   {
+    "name": ".reloc",
+    "va": "0x48000",
+    "vsize": 148,
+    "raw_ptr": "0x37e00",
+    "raw_size": 512
+   },
+   {
+    "name": ".tvm0",
+    "va": "0x49000",
+    "vsize": 917504,
+    "raw_ptr": "0x38000",
+    "raw_size": 917504
+   }
+  ],
+  "directories": [
+   {
+    "index": 0,
+    "rva": "0x0",
+    "size": 0
+   },
+   {
+    "index": 1,
+    "rva": "0x4605c",
+    "size": 60
+   },
+   {
+    "index": 2,
+    "rva": "0x47000",
+    "size": 1008
+   },
+   {
+    "index": 3,
+    "rva": "0x124000",
+    "size": 12840
+   },
+   {
+    "index": 4,
+    "rva": "0x118000",
+    "size": 21168
+   },
+   {
+    "index": 5,
+    "rva": "0x123000",
+    "size": 3952
+   },
+   {
+    "index": 6,
+    "rva": "0x30970",
+    "size": 84
+   },
+   {
+    "index": 7,
+    "rva": "0x0",
+    "size": 0
+   },
+   {
+    "index": 8,
+    "rva": "0x0",
+    "size": 0
+   },
+   {
+    "index": 9,
+    "rva": "0x0",
+    "size": 0
+   },
+   {
+    "index": 10,
+    "rva": "0x309d0",
+    "size": 264
+   },
+   {
+    "index": 11,
+    "rva": "0x0",
+    "size": 0
+   },
+   {
+    "index": 12,
+    "rva": "0x2f000",
+    "size": 672
+   },
+   {
+    "index": 13,
+    "rva": "0x0",
+    "size": 0
+   },
+   {
+    "index": 14,
+    "rva": "0x0",
+    "size": 0
+   },
+   {
+    "index": 15,
+    "rva": "0x0",
+    "size": 0
+   }
+  ]
+ },
+ "coverage": {
+  "items": 43363,
+  "instructions": 42528,
+  "padding_items": 587,
+  "data_items": 248,
+  "labels": 3902,
+  "functions": 1146,
+  "mnemonic_lines": 41934,
+  "raw_byte_lines": 594,
+  "mnemonic_ratio": 98.6
+ },
+ "authenticode": {
+  "status": "Valid",
+  "subject": "CN=Microsoft Windows Hardware Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+ },
+ "toolchain": {
+  "assembler": "NASM version 2.16.03 compiled on Apr 17 2024",
+  "packer": "tools/build.py",
+  "headers": "tools/mkheaders.py"
+ }
+}

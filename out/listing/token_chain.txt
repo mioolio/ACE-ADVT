@@ -1,0 +1,15 @@
+; ACE-ADVT command dispatch chain (sub_625B1) -- execution order
+; token(k) = 0x63AE442D + k ; mask 0x907 rejects k in {0,1,2,8,11}
+
+ 0  0x63AE442D  reject  0x0627ac                  0x0627b3
+ 8  0x63AE4435  reject  0x062862     0x1400628d2  0x06286d
+ 1  0x63AE442E  reject  0x0628d2     0x140062910  0x0628dd
+ 3  0x63AE4430  ACCEPT  0x062910     0x14006294a  0x06291b
+10  0x63AE4437  ACCEPT  0x06294a     0x140062a60  0x062955
+11  0x63AE4438  reject  0x062a60     0x140062b24  0x062a6b
+ 4  0x63AE4431  ACCEPT  0x062b24     0x140062c1a  0x062b2f
+ 5  0x63AE4432  ACCEPT  0x062ec5     0x140062f64  0x062ed0
+ 9  0x63AE4436  ACCEPT  0x062f64     0x140062fa2  0x062f6f
+ 2  0x63AE442F  reject  0x0637e6     0x140063886  0x0637f1
+
+; order observed in the driver: k0 -> k8 -> k1 -> k3 -> k10 -> k11 -> k4 -> k5 -> k9 -> k2

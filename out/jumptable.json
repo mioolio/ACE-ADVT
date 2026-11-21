@@ -1,0 +1,32 @@
+{
+ "843d": {
+  "target": 220352,
+  "pattern": "rip_abs",
+  "span": 80,
+  "src": 33775
+ },
+ "8585": {
+  "target": 220352,
+  "pattern": "rip_abs",
+  "span": 72,
+  "src": 34111
+ },
+ "8685": {
+  "target": 220352,
+  "pattern": "rip_abs",
+  "span": 100,
+  "src": 34339
+ },
+ "8c1a": {
+  "target": 220352,
+  "pattern": "rip_abs",
+  "span": 92,
+  "src": 35776
+ },
+ "8dba": {
+  "target": 220352,
+  "pattern": "rip_abs",
+  "span": 138,
+  "src": 36146
+ }
+}

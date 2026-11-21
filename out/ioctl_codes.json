@@ -1,0 +1,55 @@
+[
+ {
+  "code": 2238500,
+  "device_type": 34,
+  "access": 0,
+  "function": 2569,
+  "method": 0,
+  "sites": [
+   "0x61e5a",
+   "0x61e5b"
+  ]
+ },
+ {
+  "code": 2238508,
+  "device_type": 34,
+  "access": 0,
+  "function": 2571,
+  "method": 0,
+  "sites": [
+   "0x62174",
+   "0x62175"
+  ]
+ },
+ {
+  "code": 2238516,
+  "device_type": 34,
+  "access": 0,
+  "function": 2573,
+  "method": 0,
+  "sites": [
+   "0x623ed",
+   "0x623ee"
+  ]
+ },
+ {
+  "code": 2147483747,
+  "device_type": 32768,
+  "access": 0,
+  "function": 24,
+  "method": 3,
+  "sites": [
+   "0x1241cc"
+  ]
+ },
+ {
+  "code": 2147484263,
+  "device_type": 32768,
+  "access": 0,
+  "function": 153,
+  "method": 3,
+  "sites": [
+   "0x126938"
+  ]
+ }
+]

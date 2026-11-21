@@ -1,0 +1,239 @@
+{
+ "2": {
+  "site": 410021,
+  "calls": [
+   22800,
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "3": {
+  "site": 410947,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "4": {
+  "site": 411856,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "5": {
+  "site": 408411,
+  "calls": [],
+  "apis": [],
+  "groups": {},
+  "stores": [
+   "0x063b38 mov dword ptr [rdx], 0x1343beb",
+   "0x063b3e mov dword ptr [rdx + 4], 0x30"
+  ],
+  "traced": 41
+ },
+ "6": {
+  "site": 413101,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "7": {
+  "site": 415041,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "8": {
+  "site": 431368,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "9": {
+  "site": 421327,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "10": {
+  "site": 424850,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "11": {
+  "site": 426467,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "12": {
+  "site": 422022,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "13": {
+  "site": 423677,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "17": {
+  "site": 417250,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "18": {
+  "site": 419246,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "19": {
+  "site": 419963,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "20": {
+  "site": 433201,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "21": {
+  "site": 432372,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "22": {
+  "site": 430107,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "25": {
+  "site": 428062,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "28": {
+  "site": 429453,
+  "calls": [
+   60848
+  ],
+  "apis": [],
+  "groups": {},
+  "stores": [],
+  "traced": 420
+ },
+ "29": {
+  "site": 434777,
+  "calls": [
+   24720,
+   27888,
+   60848
+  ],
+  "apis": [
+   "ntoskrnl.exe!IoGetCurrentProcess",
+   "ntoskrnl.exe!MmIsAddressValid",
+   "ntoskrnl.exe!PsGetCurrentProcessId"
+  ],
+  "groups": {
+   "memory": 1,
+   "process": 2
+  },
+  "stores": [],
+  "traced": 420
+ },
+ "30": {
+  "site": 435847,
+  "calls": [
+   27888,
+   36512,
+   60848
+  ],
+  "apis": [
+   "ntoskrnl.exe!PsGetCurrentProcessId"
+  ],
+  "groups": {
+   "process": 1
+  },
+  "stores": [],
+  "traced": 407
+ }
+}

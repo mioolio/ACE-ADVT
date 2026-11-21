@@ -1,0 +1,495 @@
+{
+ "manifest": [
+  {
+   "file": "parts/text_01.asm",
+   "rva_start": 4096,
+   "rva_end": 22800,
+   "kind": "code",
+   "lines": 628,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_02.asm",
+   "rva_start": 22800,
+   "rva_end": 34457,
+   "kind": "code",
+   "lines": 1926,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_03.asm",
+   "rva_start": 34457,
+   "rva_end": 46113,
+   "kind": "code",
+   "lines": 2772,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_04.asm",
+   "rva_start": 46113,
+   "rva_end": 57773,
+   "kind": "code",
+   "lines": 3277,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_05.asm",
+   "rva_start": 57773,
+   "rva_end": 69433,
+   "kind": "code",
+   "lines": 3407,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_06.asm",
+   "rva_start": 69433,
+   "rva_end": 81091,
+   "kind": "code",
+   "lines": 3130,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_07.asm",
+   "rva_start": 81091,
+   "rva_end": 92748,
+   "kind": "code",
+   "lines": 3279,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_08.asm",
+   "rva_start": 92748,
+   "rva_end": 104407,
+   "kind": "code",
+   "lines": 3082,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_09.asm",
+   "rva_start": 104407,
+   "rva_end": 116064,
+   "kind": "code",
+   "lines": 3198,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_10.asm",
+   "rva_start": 116064,
+   "rva_end": 127721,
+   "kind": "code",
+   "lines": 3438,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_11.asm",
+   "rva_start": 127721,
+   "rva_end": 139381,
+   "kind": "code",
+   "lines": 2984,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_12.asm",
+   "rva_start": 139381,
+   "rva_end": 151038,
+   "kind": "code",
+   "lines": 3577,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_13.asm",
+   "rva_start": 151038,
+   "rva_end": 162697,
+   "kind": "code",
+   "lines": 3569,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_14.asm",
+   "rva_start": 162697,
+   "rva_end": 174353,
+   "kind": "code",
+   "lines": 3249,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_15.asm",
+   "rva_start": 174353,
+   "rva_end": 186009,
+   "kind": "code",
+   "lines": 3758,
+   "first_line": 4
+  },
+  {
+   "file": "parts/text_16.asm",
+   "rva_start": 186009,
+   "rva_end": 190976,
+   "kind": "code",
+   "lines": 1509,
+   "first_line": 4
+  },
+  {
+   "file": "parts/init_01.asm",
+   "rva_start": 286720,
+   "rva_end": 289792,
+   "kind": "code",
+   "lines": 573,
+   "first_line": 4
+  },
+  {
+   "file": "parts/rdata_data_2f000.asm",
+   "rva_start": 192512,
+   "rva_end": 215552,
+   "kind": "data",
+   "lines": 1677,
+   "first_line": 4
+  },
+  {
+   "file": "parts/data_data_35000.asm",
+   "rva_start": 217088,
+   "rva_end": 218112,
+   "kind": "data",
+   "lines": 102,
+   "first_line": 4
+  },
+  {
+   "file": "parts/pdata_data_42000.asm",
+   "rva_start": 270336,
+   "rva_end": 283136,
+   "kind": "data",
+   "lines": 800,
+   "first_line": 4
+  },
+  {
+   "file": "parts/rsrc_data_47000.asm",
+   "rva_start": 290816,
+   "rva_end": 291840,
+   "kind": "data",
+   "lines": 64,
+   "first_line": 4
+  },
+  {
+   "file": "parts/reloc_data_48000.asm",
+   "rva_start": 294912,
+   "rva_end": 295424,
+   "kind": "data",
+   "lines": 32,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_49000.asm",
+   "rva_start": 299008,
+   "rva_end": 327680,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_50000.asm",
+   "rva_start": 327680,
+   "rva_end": 356352,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_57000.asm",
+   "rva_start": 356352,
+   "rva_end": 385024,
+   "kind": "data",
+   "lines": 1794,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_5e000.asm",
+   "rva_start": 385024,
+   "rva_end": 413696,
+   "kind": "data",
+   "lines": 1808,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_65000.asm",
+   "rva_start": 413696,
+   "rva_end": 442368,
+   "kind": "data",
+   "lines": 1794,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_6c000.asm",
+   "rva_start": 442368,
+   "rva_end": 471040,
+   "kind": "data",
+   "lines": 1812,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_73000.asm",
+   "rva_start": 471040,
+   "rva_end": 499712,
+   "kind": "data",
+   "lines": 1809,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_7a000.asm",
+   "rva_start": 499712,
+   "rva_end": 528384,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_81000.asm",
+   "rva_start": 528384,
+   "rva_end": 557056,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_88000.asm",
+   "rva_start": 557056,
+   "rva_end": 585728,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_8f000.asm",
+   "rva_start": 585728,
+   "rva_end": 614400,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_96000.asm",
+   "rva_start": 614400,
+   "rva_end": 643072,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_9d000.asm",
+   "rva_start": 643072,
+   "rva_end": 671744,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_a4000.asm",
+   "rva_start": 671744,
+   "rva_end": 700416,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_ab000.asm",
+   "rva_start": 700416,
+   "rva_end": 729088,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_b2000.asm",
+   "rva_start": 729088,
+   "rva_end": 757760,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_b9000.asm",
+   "rva_start": 757760,
+   "rva_end": 786432,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_c0000.asm",
+   "rva_start": 786432,
+   "rva_end": 815104,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_c7000.asm",
+   "rva_start": 815104,
+   "rva_end": 843776,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_ce000.asm",
+   "rva_start": 843776,
+   "rva_end": 872448,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_d5000.asm",
+   "rva_start": 872448,
+   "rva_end": 901120,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_dc000.asm",
+   "rva_start": 901120,
+   "rva_end": 929792,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_e3000.asm",
+   "rva_start": 929792,
+   "rva_end": 958464,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_ea000.asm",
+   "rva_start": 958464,
+   "rva_end": 987136,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_f1000.asm",
+   "rva_start": 987136,
+   "rva_end": 1015808,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_f8000.asm",
+   "rva_start": 1015808,
+   "rva_end": 1044480,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_ff000.asm",
+   "rva_start": 1044480,
+   "rva_end": 1073152,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_106000.asm",
+   "rva_start": 1073152,
+   "rva_end": 1101824,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_10d000.asm",
+   "rva_start": 1101824,
+   "rva_end": 1130496,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_114000.asm",
+   "rva_start": 1130496,
+   "rva_end": 1159168,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_11b000.asm",
+   "rva_start": 1159168,
+   "rva_end": 1187840,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  },
+  {
+   "file": "parts/tvm0_data_122000.asm",
+   "rva_start": 1187840,
+   "rva_end": 1216512,
+   "kind": "data",
+   "lines": 1792,
+   "first_line": 4
+  }
+ ],
+ "pieces": [
+  {
+   "name": ".text",
+   "va": 4096,
+   "raw_size": 186880,
+   "vsize": 186492,
+   "next_va": 192512
+  },
+  {
+   "name": ".rdata",
+   "va": 192512,
+   "raw_size": 23040,
+   "vsize": 22828,
+   "next_va": 217088
+  },
+  {
+   "name": ".data",
+   "va": 217088,
+   "raw_size": 1024,
+   "vsize": 50178,
+   "next_va": 270336
+  },
+  {
+   "name": ".pdata",
+   "va": 270336,
+   "raw_size": 12800,
+   "vsize": 12420,
+   "next_va": 286720
+  },
+  {
+   "name": "INIT",
+   "va": 286720,
+   "raw_size": 3072,
+   "vsize": 2762,
+   "next_va": 290816
+  },
+  {
+   "name": ".rsrc",
+   "va": 290816,
+   "raw_size": 1024,
+   "vsize": 1008,
+   "next_va": 294912
+  },
+  {
+   "name": ".reloc",
+   "va": 294912,
+   "raw_size": 512,
+   "vsize": 148,
+   "next_va": 299008
+  },
+  {
+   "name": ".tvm0",
+   "va": 299008,
+   "raw_size": 917504,
+   "vsize": 917504,
+   "next_va": null
+  }
+ ],
+ "overrides_count": 11494
+}

@@ -1,0 +1,1120 @@
+[
+ {
+  "k": 2,
+  "site": 410021,
+  "insns": 260,
+  "edges": 16,
+  "transform": 44,
+  "transform_pct": 16.9,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 3,
+   "dword": 2,
+   "byte": 2,
+   "qword": 1
+  },
+  "top": [
+   [
+    "jmp",
+    24
+   ],
+   [
+    "movzx",
+    23
+   ],
+   [
+    "add",
+    18
+   ],
+   [
+    "or",
+    18
+   ],
+   [
+    "push",
+    16
+   ],
+   [
+    "pop",
+    16
+   ]
+  ],
+  "consts": [
+   "0x140064543",
+   "0x1400641b7",
+   "0x110eb40dd",
+   "0x2f1b00fc",
+   "0x1400644bf",
+   "0x1400641ed"
+  ],
+  "label": "linear handler (validation + call)"
+ },
+ {
+  "k": 3,
+  "site": 410947,
+  "insns": 260,
+  "edges": 17,
+  "transform": 39,
+  "transform_pct": 15.0,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "byte": 3,
+   "word": 10,
+   "qword": 9,
+   "dword": 1
+  },
+  "top": [
+   [
+    "jmp",
+    29
+   ],
+   [
+    "mov",
+    26
+   ],
+   [
+    "lea",
+    25
+   ],
+   [
+    "movzx",
+    19
+   ],
+   [
+    "push",
+    17
+   ],
+   [
+    "pop",
+    17
+   ]
+  ],
+  "consts": [
+   "0x1400648d0",
+   "0x140064555",
+   "0x1382ec764",
+   "0x7d77e2d",
+   "0x1400647b7",
+   "0x1400645a7"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 4,
+  "site": 411856,
+  "insns": 260,
+  "edges": 8,
+  "transform": 62,
+  "transform_pct": 23.8,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 5,
+   "byte": 3,
+   "qword": 4
+  },
+  "top": [
+   [
+    "or",
+    33
+   ],
+   [
+    "mov",
+    29
+   ],
+   [
+    "movzx",
+    27
+   ],
+   [
+    "xor",
+    27
+   ],
+   [
+    "and",
+    25
+   ],
+   [
+    "jmp",
+    15
+   ]
+  ],
+  "consts": [
+   "0x140064d82",
+   "0x1400648e2",
+   "0x6e079e15",
+   "0x6e079e20",
+   "0x140064ba9",
+   "0x140064913"
+  ],
+  "label": "linear handler (validation + call)"
+ },
+ {
+  "k": 5,
+  "site": 408411,
+  "insns": 41,
+  "edges": 3,
+  "transform": 5,
+  "transform_pct": 12.2,
+  "loops": 0,
+  "reply": true,
+  "widths": {
+   "word": 5,
+   "dword": 4,
+   "qword": 1
+  },
+  "top": [
+   [
+    "mov",
+    8
+   ],
+   [
+    "jmp",
+    6
+   ],
+   [
+    "not",
+    5
+   ],
+   [
+    "lea",
+    4
+   ],
+   [
+    "push",
+    3
+   ],
+   [
+    "pop",
+    3
+   ]
+  ],
+  "consts": [
+   "0x3fffff44",
+   "0xfffffffe",
+   "0xffffffcd",
+   "0x140063b8d",
+   "0x140063b8e",
+   "0x140063b8d"
+  ],
+  "label": "reply-only (probe)"
+ },
+ {
+  "k": 6,
+  "site": 413101,
+  "insns": 260,
+  "edges": 14,
+  "transform": 50,
+  "transform_pct": 19.2,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 13,
+   "dword": 2,
+   "byte": 2,
+   "qword": 11
+  },
+  "top": [
+   [
+    "jmp",
+    24
+   ],
+   [
+    "or",
+    23
+   ],
+   [
+    "lea",
+    22
+   ],
+   [
+    "mov",
+    21
+   ],
+   [
+    "movzx",
+    18
+   ],
+   [
+    "xor",
+    18
+   ]
+  ],
+  "consts": [
+   "0x140065541",
+   "0x140064dbf",
+   "0x169a2fee5",
+   "0x299cb107",
+   "0xcbc3df5e",
+   "0x74426ea4"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 7,
+  "site": 415041,
+  "insns": 260,
+  "edges": 13,
+  "transform": 50,
+  "transform_pct": 19.2,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 13,
+   "dword": 2,
+   "byte": 4,
+   "qword": 11
+  },
+  "top": [
+   [
+    "mov",
+    35
+   ],
+   [
+    "lea",
+    24
+   ],
+   [
+    "jmp",
+    23
+   ],
+   [
+    "and",
+    21
+   ],
+   [
+    "xor",
+    20
+   ],
+   [
+    "or",
+    20
+   ]
+  ],
+  "consts": [
+   "0x140065de2",
+   "0x140065553",
+   "0x13a71dbb",
+   "0x13a71dc6",
+   "0x140065787",
+   "0x140065584"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 8,
+  "site": 431368,
+  "insns": 260,
+  "edges": 12,
+  "transform": 46,
+  "transform_pct": 17.7,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 13,
+   "dword": 2,
+   "byte": 3,
+   "qword": 11
+  },
+  "top": [
+   [
+    "or",
+    32
+   ],
+   [
+    "mov",
+    23
+   ],
+   [
+    "jmp",
+    22
+   ],
+   [
+    "movzx",
+    21
+   ],
+   [
+    "lea",
+    20
+   ],
+   [
+    "xor",
+    18
+   ]
+  ],
+  "consts": [
+   "0x1400698f4",
+   "0x14006951a",
+   "0x140069725",
+   "0x14006954b",
+   "0x14006955b",
+   "0x1acbdf2ac"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 9,
+  "site": 421327,
+  "insns": 260,
+  "edges": 17,
+  "transform": 40,
+  "transform_pct": 15.4,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 14,
+   "dword": 2,
+   "byte": 3,
+   "qword": 11
+  },
+  "top": [
+   [
+    "jmp",
+    30
+   ],
+   [
+    "lea",
+    24
+   ],
+   [
+    "mov",
+    24
+   ],
+   [
+    "push",
+    17
+   ],
+   [
+    "pop",
+    17
+   ],
+   [
+    "or",
+    17
+   ]
+  ],
+  "consts": [
+   "0x140067086",
+   "0x140066de1",
+   "0x140066f5f",
+   "0x140066e12",
+   "0x140066e1c",
+   "0x19ec019ea"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 10,
+  "site": 424850,
+  "insns": 260,
+  "edges": 22,
+  "transform": 26,
+  "transform_pct": 10.0,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 12,
+   "dword": 2,
+   "byte": 2,
+   "qword": 9
+  },
+  "top": [
+   [
+    "jmp",
+    36
+   ],
+   [
+    "lea",
+    25
+   ],
+   [
+    "push",
+    23
+   ],
+   [
+    "pop",
+    22
+   ],
+   [
+    "mov",
+    22
+   ],
+   [
+    "movzx",
+    16
+   ]
+  ],
+  "consts": [
+   "0x1400681e3",
+   "0x140067ba4",
+   "0x40420a3f",
+   "0x40420a4a",
+   "0xdd474527",
+   "0x62bf36d8"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 11,
+  "site": 426467,
+  "insns": 260,
+  "edges": 18,
+  "transform": 36,
+  "transform_pct": 13.8,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 13,
+   "dword": 3,
+   "byte": 4,
+   "qword": 10
+  },
+  "top": [
+   [
+    "jmp",
+    30
+   ],
+   [
+    "lea",
+    27
+   ],
+   [
+    "mov",
+    24
+   ],
+   [
+    "push",
+    18
+   ],
+   [
+    "pop",
+    18
+   ],
+   [
+    "movzx",
+    17
+   ]
+  ],
+  "consts": [
+   "0x14006881e",
+   "0x1400681f5",
+   "0x178d84240",
+   "0x38d1c029",
+   "0x662e5a59",
+   "0x662e5a64"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 12,
+  "site": 422022,
+  "insns": 260,
+  "edges": 12,
+  "transform": 54,
+  "transform_pct": 20.8,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 1,
+   "byte": 1
+  },
+  "top": [
+   [
+    "or",
+    35
+   ],
+   [
+    "movzx",
+    27
+   ],
+   [
+    "xor",
+    23
+   ],
+   [
+    "and",
+    22
+   ],
+   [
+    "add",
+    18
+   ],
+   [
+    "jmp",
+    17
+   ]
+  ],
+  "consts": [
+   "0x1400676fd",
+   "0x140067098",
+   "0x1b8f78f2b",
+   "0x78f11e74",
+   "0x1ab66ced3",
+   "0x6b605df5"
+  ],
+  "label": "linear handler (validation + call)"
+ },
+ {
+  "k": 13,
+  "site": 423677,
+  "insns": 260,
+  "edges": 21,
+  "transform": 31,
+  "transform_pct": 11.9,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 15,
+   "byte": 6,
+   "qword": 11,
+   "dword": 2
+  },
+  "top": [
+   [
+    "jmp",
+    34
+   ],
+   [
+    "lea",
+    26
+   ],
+   [
+    "mov",
+    23
+   ],
+   [
+    "push",
+    21
+   ],
+   [
+    "pop",
+    21
+   ],
+   [
+    "movzx",
+    18
+   ]
+  ],
+  "consts": [
+   "0x140067b92",
+   "0x14006770f",
+   "0x1037690da",
+   "0x3c8fe676",
+   "0x14006786c",
+   "0x140067764"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 17,
+  "site": 417250,
+  "insns": 260,
+  "edges": 19,
+  "transform": 33,
+  "transform_pct": 12.7,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 14,
+   "dword": 2,
+   "byte": 4,
+   "qword": 11
+  },
+  "top": [
+   [
+    "jmp",
+    34
+   ],
+   [
+    "lea",
+    31
+   ],
+   [
+    "mov",
+    29
+   ],
+   [
+    "push",
+    20
+   ],
+   [
+    "pop",
+    19
+   ],
+   [
+    "movzx",
+    14
+   ]
+  ],
+  "consts": [
+   "0x1400665ae",
+   "0x140065df4",
+   "0x1b42463c1",
+   "0x741e05ad",
+   "0x140065fa6",
+   "0x140065e27"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 18,
+  "site": 419246,
+  "insns": 260,
+  "edges": 17,
+  "transform": 41,
+  "transform_pct": 15.8,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 13,
+   "byte": 4,
+   "qword": 11,
+   "dword": 1
+  },
+  "top": [
+   [
+    "jmp",
+    30
+   ],
+   [
+    "lea",
+    27
+   ],
+   [
+    "mov",
+    23
+   ],
+   [
+    "movzx",
+    22
+   ],
+   [
+    "push",
+    17
+   ],
+   [
+    "pop",
+    17
+   ]
+  ],
+  "consts": [
+   "0x14006687b",
+   "0x1400665c0",
+   "0x39d0533c",
+   "0x39d05332",
+   "0x116b335c1",
+   "0x2953303a"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 19,
+  "site": 419963,
+  "insns": 260,
+  "edges": 13,
+  "transform": 49,
+  "transform_pct": 18.8,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "byte": 3,
+   "word": 10,
+   "qword": 9,
+   "dword": 1
+  },
+  "top": [
+   [
+    "movzx",
+    24
+   ],
+   [
+    "jmp",
+    23
+   ],
+   [
+    "mov",
+    23
+   ],
+   [
+    "and",
+    21
+   ],
+   [
+    "or",
+    21
+   ],
+   [
+    "xor",
+    21
+   ]
+  ],
+  "consts": [
+   "0x140066dcf",
+   "0x14006688d",
+   "0x1997ba85",
+   "0x1997ba8f",
+   "0x1372b330a",
+   "0x8db35c2"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 20,
+  "site": 433201,
+  "insns": 260,
+  "edges": 12,
+  "transform": 48,
+  "transform_pct": 18.5,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "byte": 4,
+   "word": 8,
+   "qword": 7,
+   "dword": 1
+  },
+  "top": [
+   [
+    "or",
+    24
+   ],
+   [
+    "jmp",
+    23
+   ],
+   [
+    "movzx",
+    23
+   ],
+   [
+    "mov",
+    22
+   ],
+   [
+    "and",
+    21
+   ],
+   [
+    "xor",
+    20
+   ]
+  ],
+  "consts": [
+   "0x14006a259",
+   "0x140069c43",
+   "0x140069eed",
+   "0x140069c74",
+   "0x140069c82",
+   "0xe4b4f967"
+  ],
+  "label": "linear handler (validation + call)"
+ },
+ {
+  "k": 21,
+  "site": 432372,
+  "insns": 260,
+  "edges": 16,
+  "transform": 39,
+  "transform_pct": 15.0,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 13,
+   "byte": 5,
+   "qword": 11,
+   "dword": 1
+  },
+  "top": [
+   [
+    "jmp",
+    29
+   ],
+   [
+    "mov",
+    22
+   ],
+   [
+    "lea",
+    21
+   ],
+   [
+    "movzx",
+    19
+   ],
+   [
+    "add",
+    18
+   ],
+   [
+    "push",
+    16
+   ]
+  ],
+  "consts": [
+   "0x140069c31",
+   "0x140069906",
+   "0x6d036c6c",
+   "0x6d036c62",
+   "0x140069a34",
+   "0x140069934"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 22,
+  "site": 430107,
+  "insns": 260,
+  "edges": 18,
+  "transform": 37,
+  "transform_pct": 14.2,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 13,
+   "byte": 4,
+   "qword": 11,
+   "dword": 1
+  },
+  "top": [
+   [
+    "lea",
+    31
+   ],
+   [
+    "jmp",
+    30
+   ],
+   [
+    "mov",
+    25
+   ],
+   [
+    "movzx",
+    19
+   ],
+   [
+    "push",
+    18
+   ],
+   [
+    "pop",
+    18
+   ]
+  ],
+  "consts": [
+   "0x140069508",
+   "0x14006902d",
+   "0x14006927e",
+   "0x14006903c",
+   "0x3ffd8a44",
+   "0x3ffd8a4f"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 25,
+  "site": 428062,
+  "insns": 260,
+  "edges": 17,
+  "transform": 41,
+  "transform_pct": 15.8,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 12,
+   "dword": 3,
+   "byte": 2,
+   "qword": 9
+  },
+  "top": [
+   [
+    "jmp",
+    29
+   ],
+   [
+    "mov",
+    19
+   ],
+   [
+    "add",
+    19
+   ],
+   [
+    "push",
+    18
+   ],
+   [
+    "lea",
+    18
+   ],
+   [
+    "or",
+    18
+   ]
+  ],
+  "consts": [
+   "0x140068d8d",
+   "0x140068830",
+   "0x5e940e4",
+   "0x5e940ef",
+   "0xdbbe94ed",
+   "0x6447f382"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 28,
+  "site": 429453,
+  "insns": 260,
+  "edges": 19,
+  "transform": 38,
+  "transform_pct": 14.6,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 14,
+   "dword": 2,
+   "byte": 4,
+   "qword": 11
+  },
+  "top": [
+   [
+    "jmp",
+    32
+   ],
+   [
+    "lea",
+    32
+   ],
+   [
+    "mov",
+    22
+   ],
+   [
+    "push",
+    19
+   ],
+   [
+    "pop",
+    19
+   ],
+   [
+    "movzx",
+    19
+   ]
+  ],
+  "consts": [
+   "0x14006901b",
+   "0x140068d9f",
+   "0x5ae9294d",
+   "0x5ae92958",
+   "0x140068ea5",
+   "0x140068dd0"
+  ],
+  "label": "bulk copy / structure move"
+ },
+ {
+  "k": 29,
+  "site": 434777,
+  "insns": 260,
+  "edges": 17,
+  "transform": 44,
+  "transform_pct": 16.9,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "word": 3,
+   "dword": 2,
+   "byte": 2,
+   "qword": 1
+  },
+  "top": [
+   [
+    "jmp",
+    26
+   ],
+   [
+    "movzx",
+    23
+   ],
+   [
+    "add",
+    19
+   ],
+   [
+    "push",
+    18
+   ],
+   [
+    "pop",
+    17
+   ],
+   [
+    "lea",
+    16
+   ]
+  ],
+  "consts": [
+   "0x14006a687",
+   "0x14006a26b",
+   "0x1aa3738e8",
+   "0x6a309660",
+   "0x91ecd45",
+   "0x91ecd3a"
+  ],
+  "label": "linear handler (validation + call)"
+ },
+ {
+  "k": 30,
+  "site": 435847,
+  "insns": 260,
+  "edges": 17,
+  "transform": 42,
+  "transform_pct": 16.2,
+  "loops": 0,
+  "reply": false,
+  "widths": {
+   "byte": 2,
+   "word": 3,
+   "qword": 2,
+   "dword": 1
+  },
+  "top": [
+   [
+    "jmp",
+    26
+   ],
+   [
+    "movzx",
+    23
+   ],
+   [
+    "add",
+    21
+   ],
+   [
+    "push",
+    17
+   ],
+   [
+    "pop",
+    17
+   ],
+   [
+    "or",
+    16
+   ]
+  ],
+  "consts": [
+   "0x14006ab33",
+   "0x14006a699",
+   "0x12432d7c3",
+   "0x1bd3cef3",
+   "0xf4a3ce91",
+   "0x4b62d849"
+  ],
+  "label": "linear handler (validation + call)"
+ }
+]

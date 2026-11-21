@@ -1,0 +1,177 @@
+{
+  "path": "<TARGET_SYS>",
+  "sha256": "4c144c62acb297ce536f89caa9727ecd6aabc5d048a66a53eb9a937e51523ff8",
+  "md5": "a58a193204c35947eb6cca919e4484f6",
+  "size": 1168048,
+  "image_base": 5368709120,
+  "entry_point": 286720,
+  "timestamp": 1776765876,
+  "checksum": 1199744,
+  "computed_checksum": 1199744,
+  "size_of_image": 1216512,
+  "size_of_headers": 1024,
+  "section_alignment": 4096,
+  "file_alignment": 512,
+  "subsystem": 1,
+  "dll_characteristics": 480,
+  "characteristics": 34,
+  "machine": 34404,
+  "directories": [
+    {
+      "index": 0,
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "index": 1,
+      "rva": 286812,
+      "size": 60
+    },
+    {
+      "index": 2,
+      "rva": 290816,
+      "size": 1008
+    },
+    {
+      "index": 3,
+      "rva": 1196032,
+      "size": 12840
+    },
+    {
+      "index": 4,
+      "rva": 1146880,
+      "size": 21168
+    },
+    {
+      "index": 5,
+      "rva": 1191936,
+      "size": 3952
+    },
+    {
+      "index": 6,
+      "rva": 199024,
+      "size": 84
+    },
+    {
+      "index": 7,
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "index": 8,
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "index": 9,
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "index": 10,
+      "rva": 199120,
+      "size": 264
+    },
+    {
+      "index": 11,
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "index": 12,
+      "rva": 192512,
+      "size": 672
+    },
+    {
+      "index": 13,
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "index": 14,
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "index": 15,
+      "rva": 0,
+      "size": 0
+    }
+  ],
+  "sections": [
+    {
+      "idx": 0,
+      "name": ".text",
+      "va": 4096,
+      "vsize": 186492,
+      "raw_ptr": 1024,
+      "raw_size": 186880,
+      "chars": 1744830496
+    },
+    {
+      "idx": 1,
+      "name": ".rdata",
+      "va": 192512,
+      "vsize": 22828,
+      "raw_ptr": 187904,
+      "raw_size": 23040,
+      "chars": 1207959616
+    },
+    {
+      "idx": 2,
+      "name": ".data",
+      "va": 217088,
+      "vsize": 50178,
+      "raw_ptr": 210944,
+      "raw_size": 1024,
+      "chars": 3355443264
+    },
+    {
+      "idx": 3,
+      "name": ".pdata",
+      "va": 270336,
+      "vsize": 12420,
+      "raw_ptr": 211968,
+      "raw_size": 12800,
+      "chars": 1207959616
+    },
+    {
+      "idx": 4,
+      "name": "INIT",
+      "va": 286720,
+      "vsize": 2762,
+      "raw_ptr": 224768,
+      "raw_size": 3072,
+      "chars": 1644167200
+    },
+    {
+      "idx": 5,
+      "name": ".rsrc",
+      "va": 290816,
+      "vsize": 1008,
+      "raw_ptr": 227840,
+      "raw_size": 1024,
+      "chars": 1107296320
+    },
+    {
+      "idx": 6,
+      "name": ".reloc",
+      "va": 294912,
+      "vsize": 148,
+      "raw_ptr": 228864,
+      "raw_size": 512,
+      "chars": 1107296320
+    },
+    {
+      "idx": 7,
+      "name": ".tvm0",
+      "va": 299008,
+      "vsize": 917504,
+      "raw_ptr": 229376,
+      "raw_size": 917504,
+      "chars": 1744830496
+    }
+  ],
+  "body_end": 1146880,
+  "cert_offset": 1146880
+}

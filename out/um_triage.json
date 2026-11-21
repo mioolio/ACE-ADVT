@@ -1,0 +1,1149 @@
+[
+ {
+  "size": 4125432,
+  "machine": "0x8664",
+  "subsystem": 1,
+  "timestamp": 1773989244,
+  "linker": "14.0",
+  "entry": "0x393000",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    704477,
+    704512
+   ],
+   [
+    ".rdata",
+    290516,
+    290816
+   ],
+   [
+    ".data",
+    2689024,
+    8192
+   ],
+   [
+    ".pdata",
+    32844,
+    33280
+   ],
+   [
+    ".CRT",
+    216,
+    512
+   ],
+   [
+    ".gfids",
+    124,
+    512
+   ],
+   [
+    ".giats",
+    4,
+    512
+   ],
+   [
+    "PAGE",
+    6397,
+    6656
+   ],
+   [
+    "INIT",
+    8754,
+    9216
+   ],
+   [
+    ".rsrc",
+    1008,
+    1024
+   ],
+   [
+    ".reloc",
+    292,
+    512
+   ],
+   [
+    ".tvm0",
+    3047424,
+    3047424
+   ]
+  ],
+  "debug": [],
+  "path": "ACE-BASE.sys",
+  "hits": {
+   "reply_magic": 1,
+   "envelope_size": 10
+  }
+ },
+ {
+  "size": 1996392,
+  "machine": "0x8664",
+  "subsystem": 1,
+  "timestamp": 1793012027,
+  "linker": "14.28",
+  "entry": "0x116000",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    385564,
+    386048
+   ],
+   [
+    ".rdata",
+    49964,
+    50176
+   ],
+   [
+    ".data",
+    666265,
+    1536
+   ],
+   [
+    ".pdata",
+    21804,
+    22016
+   ],
+   [
+    "INIT",
+    4686,
+    5120
+   ],
+   [
+    ".rsrc",
+    1000,
+    1024
+   ],
+   [
+    ".reloc",
+    816,
+    1024
+   ],
+   [
+    ".tvm0",
+    1507328,
+    1507328
+   ]
+  ],
+  "debug": [],
+  "path": "ACE-BOOT.sys",
+  "hits": {
+   "reply_magic": 2,
+   "envelope_size": 10,
+   "sha256_iv0": 5,
+   "sha256_k0": 1
+  }
+ },
+ {
+  "size": 4428984,
+  "machine": "0x8664",
+  "subsystem": 1,
+  "timestamp": 1793783759,
+  "linker": "14.0",
+  "entry": "0x1184",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    345212,
+    345600
+   ],
+   [
+    ".cave",
+    1934,
+    2048
+   ],
+   [
+    ".rdata",
+    295564,
+    295936
+   ],
+   [
+    ".data",
+    94788816,
+    123392
+   ],
+   [
+    ".pdata",
+    13860,
+    14336
+   ],
+   [
+    ".gfids",
+    68,
+    512
+   ],
+   [
+    "PAGE",
+    7117,
+    7168
+   ],
+   [
+    "INIT",
+    7468,
+    7680
+   ],
+   [
+    ".rsrc",
+    1008,
+    1024
+   ],
+   [
+    ".reloc",
+    272,
+    512
+   ],
+   [
+    ".tvm0",
+    3608576,
+    3608576
+   ]
+  ],
+  "debug": [],
+  "path": "ACE-CORE302706.sys",
+  "hits": {
+   "reply_magic": 2,
+   "envelope_size": 2
+  }
+ },
+ {
+  "size": 3251672,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1784614010,
+  "linker": "14.43",
+  "entry": "0x1bdb34",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    2066620,
+    2066944
+   ],
+   [
+    ".rdata",
+    806570,
+    806912
+   ],
+   [
+    ".data",
+    69068,
+    49664
+   ],
+   [
+    ".pdata",
+    115632,
+    115712
+   ],
+   [
+    ".detourc",
+    8656,
+    8704
+   ],
+   [
+    ".detourd",
+    24,
+    512
+   ],
+   [
+    ".rsrc",
+    1376,
+    1536
+   ],
+   [
+    ".reloc",
+    29748,
+    30208
+   ],
+   [
+    ".tvm0",
+    159744,
+    159744
+   ]
+  ],
+  "debug": [],
+  "path": "ACE-Service64.exe",
+  "hits": {
+   "ioctl_main_A": 1,
+   "envelope_size": 16,
+   "sha256_iv0": 5,
+   "sha256_k0": 5
+  }
+ },
+ {
+  "size": 7675792,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1782805358,
+  "linker": "14.0",
+  "entry": "0x195d2c",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    1965330,
+    1965568
+   ],
+   [
+    ".rdata",
+    781550,
+    781824
+   ],
+   [
+    ".data",
+    59548,
+    33792
+   ],
+   [
+    ".pdata",
+    113988,
+    114176
+   ],
+   [
+    ".tls",
+    305,
+    512
+   ],
+   [
+    ".gfids",
+    2628,
+    3072
+   ],
+   [
+    ".K{b",
+    3757844,
+    3758080
+   ],
+   [
+    ".reloc",
+    30052,
+    30208
+   ],
+   [
+    ".rsrc",
+    976661,
+    976896
+   ]
+  ],
+  "debug": [],
+  "path": "ACE-Tray.exe",
+  "hits": {
+   "ioctl_main_A": 8,
+   "envelope_size": 13,
+   "sha256_iv0": 11,
+   "sha256_k0": 6
+  }
+ },
+ {
+  "size": 904520,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1784613942,
+  "linker": "14.43",
+  "entry": "0x2b4c0",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    319576,
+    320000
+   ],
+   [
+    ".rdata",
+    122818,
+    122880
+   ],
+   [
+    ".data",
+    24876,
+    18432
+   ],
+   [
+    ".pdata",
+    15096,
+    15360
+   ],
+   [
+    ".rsrc",
+    412960,
+    413184
+   ],
+   [
+    ".reloc",
+    2604,
+    3072
+   ]
+  ],
+  "debug": [],
+  "path": "Uninstaller.exe",
+  "hits": {
+   "ioctl_main_A": 1,
+   "envelope_size": 1,
+   "shortname": 2
+  }
+ },
+ {
+  "size": 8997336,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1670821614,
+  "linker": "14.0",
+  "entry": "0x2746f0",
+  "image_base": "0x180000000",
+  "sections": [
+   [
+    ".text",
+    3754810,
+    3755008
+   ],
+   [
+    ".rdata",
+    872294,
+    872448
+   ],
+   [
+    ".data",
+    189076,
+    154112
+   ],
+   [
+    ".pdata",
+    203352,
+    203776
+   ],
+   [
+    ".tls",
+    153,
+    512
+   ],
+   [
+    ".gfids",
+    6080,
+    6144
+   ],
+   [
+    ".rsrc",
+    1376,
+    1536
+   ],
+   [
+    ".reloc",
+    31232,
+    31232
+   ],
+   [
+    ".tvm0",
+    3960832,
+    3960832
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\ACE-Safe.dll",
+  "hits": {
+   "ioctl_main_A": 10,
+   "envelope_size": 81,
+   "sha256_iv0": 6,
+   "sha256_k0": 7
+  }
+ },
+ {
+  "size": 2377608,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1670827692,
+  "linker": "14.0",
+  "entry": "0x10fd38",
+  "image_base": "0x180000000",
+  "sections": [
+   [
+    ".text",
+    1430582,
+    1431040
+   ],
+   [
+    ".rdata",
+    472520,
+    472576
+   ],
+   [
+    ".data",
+    184724,
+    153088
+   ],
+   [
+    ".pdata",
+    83760,
+    83968
+   ],
+   [
+    ".gfids",
+    2704,
+    3072
+   ],
+   [
+    ".rsrc",
+    1304,
+    1536
+   ],
+   [
+    ".reloc",
+    28120,
+    28160
+   ],
+   [
+    ".tvm0",
+    192512,
+    192512
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\ACE-Trace.dll",
+  "hits": {
+   "ioctl_main_A": 8,
+   "envelope_size": 9,
+   "sha256_iv0": 2,
+   "sha256_k0": 6
+  }
+ },
+ {
+  "size": 7902680,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1754467225,
+  "linker": "14.0",
+  "entry": "0x2c5928",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    3275822,
+    3276288
+   ],
+   [
+    ".rdata",
+    1084812,
+    1084928
+   ],
+   [
+    ".data",
+    110708,
+    83456
+   ],
+   [
+    ".pdata",
+    166596,
+    166912
+   ],
+   [
+    ".tls",
+    9,
+    512
+   ],
+   [
+    ".gfids",
+    3044,
+    3072
+   ],
+   [
+    ".rsrc",
+    2544,
+    2560
+   ],
+   [
+    ".reloc",
+    37204,
+    37376
+   ],
+   [
+    ".tvm0",
+    3235840,
+    3235840
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\SGuard64.exe",
+  "hits": {
+   "ioctl_main_A": 9,
+   "envelope_size": 25,
+   "sha256_iv0": 7,
+   "sha256_k0": 6
+  }
+ },
+ {
+  "size": 2094552,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1754467109,
+  "linker": "14.0",
+  "entry": "0xc09f4",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    918882,
+    919040
+   ],
+   [
+    ".rdata",
+    206614,
+    206848
+   ],
+   [
+    ".data",
+    48740,
+    39424
+   ],
+   [
+    ".pdata",
+    50820,
+    51200
+   ],
+   [
+    ".gfids",
+    652,
+    1024
+   ],
+   [
+    ".tls",
+    9,
+    512
+   ],
+   [
+    ".rsrc",
+    2152,
+    2560
+   ],
+   [
+    ".reloc",
+    5768,
+    6144
+   ],
+   [
+    ".tvm0",
+    856064,
+    856064
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\SGuardSvc64.exe",
+  "hits": {
+   "ioctl_main_A": 8,
+   "envelope_size": 4,
+   "sha256_iv0": 1,
+   "sha256_k0": 1
+  }
+ },
+ {
+  "size": 4114904,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1754467125,
+  "linker": "14.0",
+  "entry": "0x215cec",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    2384306,
+    2384384
+   ],
+   [
+    ".rdata",
+    551762,
+    551936
+   ],
+   [
+    ".data",
+    403052,
+    379904
+   ],
+   [
+    ".pdata",
+    135876,
+    136192
+   ],
+   [
+    ".tls",
+    9,
+    512
+   ],
+   [
+    ".gfids",
+    700,
+    1024
+   ],
+   [
+    ".rsrc",
+    2152,
+    2560
+   ],
+   [
+    ".reloc",
+    27820,
+    28160
+   ],
+   [
+    ".tvm0",
+    618496,
+    618496
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\SGuardUpdate64.exe",
+  "hits": {
+   "ioctl_main_A": 8,
+   "ioctl_aux_A": 1,
+   "envelope_size": 19,
+   "sha256_iv0": 3,
+   "sha256_k0": 6
+  }
+ },
+ {
+  "size": 499032,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1663658145,
+  "linker": "14.16",
+  "entry": "0x89f8",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    231080,
+    231424
+   ],
+   [
+    ".rdata",
+    93792,
+    94208
+   ],
+   [
+    ".data",
+    16704,
+    9728
+   ],
+   [
+    ".pdata",
+    15600,
+    15872
+   ],
+   [
+    ".rsrc",
+    132520,
+    132608
+   ],
+   [
+    ".reloc",
+    3280,
+    3584
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\Uninstall64.exe",
+  "hits": {
+   "ioctl_main_A": 2,
+   "ioctl_aux_B": 7
+  }
+ },
+ {
+  "size": 9214424,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1756881792,
+  "linker": "14.0",
+  "entry": "0xf0730",
+  "image_base": "0x180000000",
+  "sections": [
+   [
+    ".text",
+    1263534,
+    1263616
+   ],
+   [
+    ".rdata",
+    665256,
+    665600
+   ],
+   [
+    ".data",
+    73852,
+    51200
+   ],
+   [
+    ".pdata",
+    60144,
+    60416
+   ],
+   [
+    ".gfids",
+    3032,
+    3072
+   ],
+   [
+    ".tls",
+    21,
+    512
+   ],
+   [
+    ".rsrc",
+    1368,
+    1536
+   ],
+   [
+    ".reloc",
+    13300,
+    13312
+   ],
+   [
+    ".tvm0",
+    7143424,
+    7143424
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\Plugins\\ACE-ATS64.dll",
+  "hits": {
+   "ioctl_main_A": 8,
+   "envelope_size": 9
+  }
+ },
+ {
+  "size": 6317016,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1763960043,
+  "linker": "14.0",
+  "entry": "0x1977e4",
+  "image_base": "0x180000000",
+  "sections": [
+   [
+    ".text",
+    2107594,
+    2107904
+   ],
+   [
+    ".rdata",
+    823234,
+    823296
+   ],
+   [
+    ".data",
+    59164,
+    46080
+   ],
+   [
+    ".pdata",
+    96156,
+    96256
+   ],
+   [
+    ".gfids",
+    3064,
+    3072
+   ],
+   [
+    ".tls",
+    9,
+    512
+   ],
+   [
+    ".rsrc",
+    1368,
+    1536
+   ],
+   [
+    ".reloc",
+    11108,
+    11264
+   ],
+   [
+    ".tvm0",
+    3215360,
+    3215360
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\Plugins\\ACE-CSI64.dll",
+  "hits": {
+   "ioctl_main_A": 8,
+   "ioctl_aux_B": 2,
+   "token_main_base": 1,
+   "table_magic": 13,
+   "envelope_size": 44,
+   "sha256_iv0": 6,
+   "sha256_k0": 1,
+   "token_scramble": 1
+  }
+ },
+ {
+  "size": 23234520,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1765961742,
+  "linker": "14.44",
+  "entry": "0xeeab0",
+  "image_base": "0x180000000",
+  "sections": [
+   [
+    ".text",
+    1204256,
+    1204736
+   ],
+   [
+    ".rdata",
+    308576,
+    308736
+   ],
+   [
+    ".data",
+    52492,
+    15872
+   ],
+   [
+    ".pdata",
+    38412,
+    38912
+   ],
+   [
+    ".fptable",
+    256,
+    512
+   ],
+   [
+    ".rsrc",
+    1368,
+    1536
+   ],
+   [
+    ".reloc",
+    4612,
+    5120
+   ],
+   [
+    ".tvm0",
+    21647360,
+    21647360
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\Plugins\\ACE-DFS64.dll",
+  "hits": {
+   "ioctl_main_A": 1,
+   "table_magic": 3,
+   "envelope_size": 8,
+   "sha256_iv0": 6,
+   "sha256_k0": 1,
+   "token_scramble": 1
+  }
+ },
+ {
+  "size": 25075160,
+  "machine": "0x8664",
+  "subsystem": 3,
+  "timestamp": 1752400576,
+  "linker": "14.0",
+  "entry": "0x26e83e1",
+  "image_base": "0x180000000",
+  "sections": [
+   [
+    ".text",
+    5062980,
+    0
+   ],
+   [
+    ".rdata",
+    1944330,
+    0
+   ],
+   [
+    ".data",
+    632668,
+    0
+   ],
+   [
+    ".pdata",
+    249636,
+    0
+   ],
+   [
+    ".tls",
+    337,
+    0
+   ],
+   [
+    ".detourc",
+    8688,
+    0
+   ],
+   [
+    ".detourd",
+    24,
+    0
+   ],
+   [
+    ".gfids",
+    3928,
+    0
+   ],
+   [
+    "_RDATA",
+    32560,
+    0
+   ],
+   [
+    ".;9C",
+    11190625,
+    0
+   ],
+   [
+    ".(_]",
+    4936,
+    5120
+   ],
+   [
+    ".A;6",
+    25055644,
+    25055744
+   ],
+   [
+    ".reloc",
+    52,
+    512
+   ],
+   [
+    ".rsrc",
+    9041048,
+    2048
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\Plugins\\ACE-DRV64.dll",
+  "hits": {
+   "ioctl_aux_B": 1,
+   "envelope_size": 2
+  }
+ },
+ {
+  "size": 1595056,
+  "machine": "0x8664",
+  "subsystem": 1,
+  "timestamp": 1766500838,
+  "linker": "14.44",
+  "entry": "0x1f000",
+  "image_base": "0x140000000",
+  "sections": [
+   [
+    ".text",
+    89885,
+    90112
+   ],
+   [
+    ".rdata",
+    11688,
+    11776
+   ],
+   [
+    ".data",
+    2532,
+    1536
+   ],
+   [
+    ".pdata",
+    4776,
+    5120
+   ],
+   [
+    "PAGE",
+    7235,
+    7680
+   ],
+   [
+    "INIT",
+    4642,
+    5120
+   ],
+   [
+    ".rsrc",
+    912,
+    1024
+   ],
+   [
+    ".reloc",
+    68,
+    512
+   ],
+   [
+    ".tvm0",
+    1449984,
+    1449984
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\Plugins\\ACE-SSC-DRV64.sys",
+  "hits": {
+   "envelope_size": 2
+  }
+ },
+ {
+  "size": 8193416,
+  "machine": "0x8664",
+  "subsystem": 2,
+  "timestamp": 1766501464,
+  "linker": "14.44",
+  "entry": "0x16c9cc",
+  "image_base": "0x180000000",
+  "sections": [
+   [
+    ".text",
+    1919579,
+    1920000
+   ],
+   [
+    ".rdata",
+    337420,
+    337920
+   ],
+   [
+    ".data",
+    88580,
+    60416
+   ],
+   [
+    ".pdata",
+    85140,
+    85504
+   ],
+   [
+    ".fptable",
+    256,
+    512
+   ],
+   [
+    ".rsrc",
+    1360,
+    1536
+   ],
+   [
+    ".reloc",
+    12684,
+    12800
+   ],
+   [
+    ".tvm0",
+    5763072,
+    5763072
+   ]
+  ],
+  "debug": [],
+  "path": "SGuard\\x64\\Plugins\\ACE-SSC64.dll",
+  "hits": {
+   "ioctl_main_A": 3,
+   "ioctl_main_C": 2,
+   "ioctl_aux_A": 1,
+   "envelope_size": 13,
+   "sha256_iv0": 1,
+   "sha256_k0": 1
+  }
+ }
+]
